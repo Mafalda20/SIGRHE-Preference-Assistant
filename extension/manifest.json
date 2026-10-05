@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Assistente de Preferências Docentes",
+  "version": "0.1.0",
+  "description": "Protótipo de extensão Chrome para preparar e preencher preferências docentes num ambiente de demonstração local.",
+  "permissions": ["storage", "activeTab", "scripting", "tabs"],
+  "host_permissions": [
+    "http://localhost:*/*",
+    "http://127.0.0.1:*/*"
+  ],
+  "action": {
+    "default_title": "Assistente Docente",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://localhost:*/*",
+        "http://127.0.0.1:*/*"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["data/catalogo.json", "data/qzp-grupos.json"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

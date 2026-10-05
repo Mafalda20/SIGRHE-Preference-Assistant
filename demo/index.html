@@ -1,0 +1,818 @@
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Concurso Nacional 2025/2026 - Manifestação Preferências - Concurso Interno</title>
+    <style>
+      :root{
+        --green:#6fbf44;
+        --green-dark:#4a9a2f;
+        --border:#d9d9d9;
+        --text:#222;
+        --muted:#666;
+        --header:#f2f2f2;
+        --input:#e9f6dc; /* verde claro como no SIGRHE */
+      }
+      body{
+        margin:0;
+        font-family: Arial, Helvetica, sans-serif;
+        color:var(--text);
+        background:#fff;
+      }
+      .topbar{
+        background:var(--header);
+        border-bottom:1px solid var(--border);
+        padding:10px 14px;
+        font-size:14px;
+        font-weight:bold;
+      }
+      .container{
+        padding:12px 14px 30px 14px;
+      }
+
+      /* Bloco de informação */
+      .info{
+        border:1px solid var(--border);
+        background:#fff;
+        padding:10px;
+        font-size:12px;
+      }
+      .infoGrid{
+        display:grid;
+        grid-template-columns: 240px 1fr;
+        row-gap:6px;
+        column-gap:10px;
+        align-items:center;
+      }
+      .label{ color:#333; }
+      .value{
+        background:#f9f9f9;
+        border:1px solid #e5e5e5;
+        padding:5px 6px;
+        border-radius:2px;
+        color:#333;
+      }
+
+      /* Tabela */
+      .tableWrap{
+        margin-top:10px;
+        border:1px solid var(--border);
+      }
+      table{
+        width:100%;
+        border-collapse:collapse;
+        font-size:12px;
+      }
+      thead th{
+        background:var(--header);
+        border-bottom:1px solid var(--border);
+        text-align:left;
+        padding:8px 8px;
+        font-weight:bold;
+      }
+      tbody td{
+        border-bottom:1px solid #eee;
+        padding:8px 8px;
+        vertical-align:top;
+      }
+      .emptyRow{ color:var(--muted); }
+
+      .sectionTitle{
+        margin-top:12px;
+        font-size:12px;
+        font-weight:bold;
+        color:#333;
+      }
+
+      /* Botões verdes */
+      .btnRow{
+        display:flex;
+        flex-wrap:wrap;
+        gap:8px;
+        margin-top:8px;
+      }
+      .btn{
+        background: linear-gradient(#86d35c, var(--green));
+        border:1px solid var(--green-dark);
+        color:#103b08;
+        font-size:12px;
+        padding:6px 10px;
+        border-radius:2px;
+        cursor:pointer;
+        display:inline-flex;
+        align-items:center;
+        gap:6px;
+        user-select:none;
+      }
+      .btn:active{ transform: translateY(1px); }
+      .btn.disabled{
+        opacity:0.5;
+        cursor:not-allowed;
+      }
+      .plus{
+        font-weight:bold;
+        font-size:14px;
+        line-height:1;
+      }
+
+      /* Modal */
+      .overlay{
+        position:fixed;
+        inset:0;
+        background:rgba(0,0,0,0.25);
+        display:none;
+        align-items:flex-start;
+        justify-content:center;
+        padding:18px;
+      }
+      .modal{
+        width:min(980px, 98vw);
+        max-height:90vh;
+        overflow:auto;
+        background:#fff;
+        border:1px solid var(--border);
+        box-shadow:0 10px 30px rgba(0,0,0,0.25);
+      }
+      .modalHeader{
+        padding:10px 12px;
+        border-bottom:1px solid var(--border);
+        font-weight:bold;
+        background:var(--header);
+        font-size:14px;
+      }
+      .modalBody{
+        padding:12px;
+        font-size:12px;
+      }
+      .rules{
+        margin:0 0 10px 0;
+        line-height:1.45;
+      }
+      .rules li{ margin:4px 0; }
+
+      .prefList{
+        border:1px solid var(--border);
+      }
+      .prefItem{
+        padding:10px;
+        border-bottom:1px solid #eee;
+      }
+      .prefItem:last-child{ border-bottom:none; }
+      .prefItemTitle{
+        font-weight:bold;
+        margin-bottom:6px;
+      }
+      .prefControls{
+        display:grid;
+        grid-template-columns: 1fr 220px;
+        gap:10px;
+        align-items:end;
+      }
+      select, input{
+        width:100%;
+        padding:6px 8px;
+        font-size:12px;
+        border:1px solid #cfcfcf;
+        background:var(--input);
+      }
+      .smallLabel{
+        display:block;
+        margin-bottom:4px;
+        color:#333;
+      }
+      .modalActions{
+        display:flex;
+        gap:8px;
+        margin-top:10px;
+      }
+
+      .statusBar{
+        margin-top:8px;
+        font-size:12px;
+        color:var(--muted);
+      }
+      .pill{
+        display:inline-block;
+        padding:2px 6px;
+        border:1px solid #ddd;
+        background:#fafafa;
+        border-radius:10px;
+        font-size:11px;
+        margin-left:6px;
+      }
+
+      .err{
+        color:#b71c1c;
+        font-weight:bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="topbar"><span id="topbarText">Concurso Nacional 2025/2026 - Manifestação Preferências - Concurso Interno</span></div>
+
+    <div class="container">
+      <div class="info">
+        <div class="infoGrid">
+          <div class="label">Fase de preenchimento:</div><div class="value">Em Preenchimento</div>
+          <div class="label">Número de utilizador:</div><div class="value">000000</div>
+          <div class="label">Nome:</div><div class="value">Nome do/a Candidato/a</div>
+          <div class="label">Graduação Profissional:</div><div class="value">GR 000</div>
+          <div class="label">Ordem Prioridade:</div><div class="value">1</div>
+          <div class="label">Tipo de Manifestação de Preferências:</div><div class="value">Concurso Interno</div>
+        </div>
+      </div>
+
+      <div class="tableWrap">
+        <table>
+          <thead>
+            <tr>
+              <th style="width:140px;">ORDEM DE PREFERÊNCIA</th>
+              <th style="width:140px;">GRUPO RECRUTAMENTO</th>
+              <th style="width:260px;">TIPO DE PREFERÊNCIA</th>
+              <th>DESIGNAÇÃO DA PREFERÊNCIA</th>
+            </tr>
+          </thead>
+          <tbody id="prefsTableBody">
+            <tr class="emptyRow">
+              <td colspan="4">Sem preferências inseridas.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="sectionTitle">Inserção de novas Preferências</div>
+      <div class="btnRow">
+        <button class="btn" id="btnOpenLoad"><span class="plus">+</span> Carregar Novas Preferências</button>
+        <button class="btn" id="btnInsertAt"><span class="plus">+</span> Inserir uma preferência numa ordem específica</button>
+        <button class="btn disabled" title="Na demo, ainda não implementado"><span class="plus">+</span> Copiar preferências do ano transato</button>
+        <button class="btn disabled" title="Na demo, ainda não implementado"><span class="plus">+</span> Copiar preferências da Transferência</button>
+        <button class="btn disabled" title="Na demo, ainda não implementado"><span class="plus">+</span> Copiar preferências da Transição</button>
+      </div>
+
+      <div class="sectionTitle">Apagar Preferências da Graduação</div>
+      <div class="btnRow">
+        <button class="btn" id="btnDeleteAll"><span class="plus">+</span> APAGAR TODAS AS PREFERÊNCIAS GRADUAÇÃO</button>
+        <button class="btn" id="btnDeleteLast10"><span class="plus">+</span> APAGAR últimas 10 (dez) Preferências Graduação</button>
+      </div>
+
+      <div class="sectionTitle">Finalizar Preferências da Graduação</div>
+      <div class="btnRow">
+        <button class="btn" id="btnFinalize"><span class="plus">+</span> Finalizar</button>
+      </div>
+
+      <div class="statusBar" id="statusBar"></div>
+    </div>
+
+    <!-- Modal: carregar até 20 -->
+    <div class="overlay" id="overlayLoad">
+      <div class="modal">
+        <div class="modalHeader" id="modalHeaderTitle">Manifestação de Preferências - Concurso Interno</div>
+        <div class="modalBody">
+          <div style="font-weight:bold; margin-bottom:6px;">Condições de Submissão de Preferências:</div>
+          <ul class="rules">
+            <li>Poderá inserir até 20 novas preferências de cada vez.</li>
+            <li>A enumeração das preferências neste ecrã é meramente informativa.</li>
+            <li>Ao clicar em <b>Carregar Novas Preferências</b>, as preferências adicionadas serão acrescentadas à lista global.</li>
+            <li>Os códigos de <b>2 dígitos</b> correspondem a QZP, <b>4 dígitos</b> a Concelhos e <b>6 dígitos</b> a AE/ENA.</li>
+          </ul>
+
+          <div class="prefList" id="prefList"></div>
+
+          <div class="modalActions">
+            <button class="btn" id="btnLoadNow"><span class="plus">+</span> Carregar Novas Preferências</button>
+            <button class="btn" id="btnCancelLoad"><span class="plus">+</span> Cancelar</button>
+          </div>
+
+          <div class="statusBar" id="modalStatus"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal: inserir numa ordem específica -->
+    <div class="overlay" id="overlayInsertAt">
+      <div class="modal">
+        <div class="modalHeader">Inserir uma preferência numa ordem específica</div>
+        <div class="modalBody">
+          <div class="prefControls" style="grid-template-columns: 1fr 220px 180px;">
+            <div>
+              <label class="smallLabel">Tipo de preferência</label>
+              <select id="insertTipo"></select>
+            </div>
+            <div>
+              <label class="smallLabel">Código</label>
+              <input id="insertCodigo" placeholder="2, 4 ou 6 dígitos" />
+            </div>
+            <div>
+              <label class="smallLabel">Ordem</label>
+              <input id="insertOrdem" placeholder="Ex: 1" />
+            </div>
+          </div>
+
+          <div class="modalActions">
+            <button class="btn" id="btnDoInsertAt"><span class="plus">+</span> Inserir</button>
+            <button class="btn" id="btnCancelInsertAt"><span class="plus">+</span> Cancelar</button>
+          </div>
+
+          <div class="statusBar" id="insertStatus"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // Modos: "INTERNO" | "EXTERNO"
+      let MODE = "INTERNO";
+
+      // Tipos como no dropdown do SIGRHE
+      const TIPOS = [
+        { id: "QZP_PROV_QZP", label: "Quadro Zona Pedagógica para provimento QZP", codeLen: 2 },
+        { id: "QZP_PROV_AE",  label: "Quadro Zona Pedagógica para provimento AE/ENA", codeLen: 2 },
+        { id: "CONCELHO",     label: "Concelho", codeLen: 4 },
+        { id: "AE",           label: "Agrupamento de Escolas ou Escola não agrupada", codeLen: 6 }
+      ];
+
+      // Grupos de recrutamento usados na página de demonstração
+      const GRUPOS = [
+        { id: "100", label: "100 - Educação Pré-Escolar" },
+        { id: "110", label: "110 - 1.º Ciclo do Ensino Básico" },
+        { id: "230", label: "230 - Matemática e Ciências da Natureza" },
+        { id: "300", label: "300 - Português" },
+        { id: "330", label: "330 - Inglês" }
+      ];
+
+      // Estado:
+      // Interno: {ordem, gr, tipoId, tipoLabel, codigo, designacao}
+      // Externo: {ordem, grEscolhido, tipoId, tipoLabel, codigo, designacao}
+      let prefs = [];
+
+      const prefsTableBody = document.getElementById("prefsTableBody");
+      const statusBar = document.getElementById("statusBar");
+
+      const overlayLoad = document.getElementById("overlayLoad");
+      const prefList = document.getElementById("prefList");
+      const modalStatus = document.getElementById("modalStatus");
+
+      const overlayInsertAt = document.getElementById("overlayInsertAt");
+      const insertTipo = document.getElementById("insertTipo");
+      const insertCodigo = document.getElementById("insertCodigo");
+      const insertOrdem = document.getElementById("insertOrdem");
+      const insertStatus = document.getElementById("insertStatus");
+
+      // Vamos criar um dropdown no topo para escolher Interno/Externo
+      const topbar = document.querySelector(".topbar");
+      const infoValues = document.querySelectorAll(".info .value");
+      // infoValues: [fase, utilizador, nome, graduação, prioridade, tipoManifestacao]
+      const tipoManifestacaoEl = infoValues[5];
+
+      function setStatus(el, msg, isErr=false){
+        el.innerHTML = isErr ? '<span class="err">' + msg + '</span>' : msg;
+      }
+
+      function setMode(newMode) {
+        MODE = newMode;
+
+        // limpar estado ao mudar de concurso
+        prefs = [];
+        finalized = false;
+
+        // atualizar topo e info
+        const title = MODE === "INTERNO"
+          ? "Concurso Nacional 2025/2026 - Manifestação Preferências - Concurso Interno"
+          : "Concurso Nacional 2025/2026 - Manifestação Preferências - Concurso Externo";
+
+        document.title = title;
+
+        const topbarText = document.getElementById("topbarText");
+        if (topbarText) {
+          topbarText.textContent = title;
+        }
+
+        if (tipoManifestacaoEl) {
+          tipoManifestacaoEl.textContent =
+            MODE === "INTERNO" ? "Concurso Interno" : "Concurso Externo";
+        }
+
+        const mh = document.getElementById("modalHeaderTitle");
+        if (mh) {
+          mh.textContent = MODE === "INTERNO"
+            ? "Manifestação de Preferências - Concurso Interno"
+            : "Manifestação de Preferências - Concurso Externo";
+        }
+
+        // fechar modais abertos
+        closeLoadModal();
+        closeInsertAtModal();
+
+        // reativar botões principais
+        ["btnOpenLoad", "btnInsertAt", "btnDeleteAll", "btnDeleteLast10"].forEach(id => {
+          const b = document.getElementById(id);
+          if (b) {
+            b.disabled = false;
+            b.classList.remove("disabled");
+          }
+        });
+
+        // reconstruir a linha de botões conforme o modo
+        const row = document.querySelector(".btnRow");
+        const btnOpenLoad = document.getElementById("btnOpenLoad");
+        const btnInsertAt = document.getElementById("btnInsertAt");
+
+        function mkDisabled(text) {
+          const b = document.createElement("button");
+          b.className = "btn disabled";
+          b.title = "Na demo, ainda não implementado";
+          b.innerHTML = '<span class="plus">+</span> ' + text;
+          return b;
+        }
+
+        if (row && btnOpenLoad && btnInsertAt) {
+          row.innerHTML = "";
+
+          if (MODE === "EXTERNO") {
+            row.appendChild(btnOpenLoad);
+            row.appendChild(mkDisabled("Copiar preferências do ano transato"));
+            row.appendChild(btnInsertAt);
+            row.appendChild(mkDisabled("Copiar preferências da Transferência"));
+            row.appendChild(mkDisabled("Copiar preferências da Transição"));
+          } else {
+            row.appendChild(btnOpenLoad);
+            row.appendChild(btnInsertAt);
+            row.appendChild(mkDisabled("Copiar preferências do ano transato"));
+            row.appendChild(mkDisabled("Copiar preferências da Transferência"));
+            row.appendChild(mkDisabled("Copiar preferências da Transição"));
+          }
+        }
+
+        // limpar e redesenhar logo a tabela
+        renderTable();
+        setStatus(statusBar, "");
+      }
+
+      function renderModeSelector() {
+        const existing = document.getElementById("modeSelectorWrap");
+        if (existing) existing.remove();
+
+        const wrap = document.createElement("span");
+        wrap.id = "modeSelectorWrap";
+        wrap.style.cssText = "float:right; font-weight:normal; display:flex; gap:8px; align-items:center;";
+        wrap.innerHTML = `
+          <span style="font-size:12px;">Modo:</span>
+          <select id="modeSelect" style="padding:4px 6px; font-size:12px; border:1px solid #cfcfcf; background: var(--input);">
+            <option value="INTERNO">Concurso Interno</option>
+            <option value="EXTERNO">Concurso Externo</option>
+          </select>
+        `;
+
+        topbar.appendChild(wrap);
+
+        const sel = wrap.querySelector("#modeSelect");
+        sel.value = MODE;
+
+        sel.addEventListener("change", (e) => {
+          setMode(e.target.value);
+        });
+      }
+
+      function designacaoFrom(tipoId, codigo) {
+        // por agora devolve só o código, mais tarde liga ao catálogo JSON
+        return codigo;
+      }
+
+      function validateCodeForTipo(tipoId, codigoRaw) {
+        const codigo = String(codigoRaw || "").trim();
+
+        // linha vazia: ok (o loop já ignora, mas isto mantém consistente)
+        if (codigo === "") return { ok: true, codigo: "" };
+
+        // Regras da página de demonstração:
+        // - QZP (provimento QZP) -> 2 dígitos
+        // - Concelho -> 4 dígitos
+        // - AE/ENA (provimento AE/ENA) -> 6 dígitos
+        // - Agrupamento/Escola -> 6 dígitos
+        let expected = null;
+
+        if (tipoId === "QZP_PROV_QZP") expected = 2;
+        else if (tipoId === "CONCELHO") expected = 4;
+        else if (tipoId === "QZP_PROV_AE") expected = 6;
+        else if (tipoId === "AE") expected = 6;
+
+        if (expected === null) {
+          return { ok: false, msg: "Tipo de preferência inválido." };
+        }
+
+        const re = new RegExp(`^\\d{${expected}}$`);
+        if (!re.test(codigo)) {
+          return { ok: false, msg: `Código inválido. Para este tipo deve ter ${expected} dígitos.` };
+        }
+
+        return { ok: true, codigo };
+      }
+
+      function nextOrdem() {
+        if (prefs.length === 0) return 1;
+        return Math.max(...prefs.map(p => p.ordem)) + 1;
+      }
+
+      function renderTable() {
+        prefsTableBody.innerHTML = "";
+        if (prefs.length === 0) {
+          const tr = document.createElement("tr");
+          tr.className = "emptyRow";
+          tr.innerHTML = '<td colspan="4">Sem preferências inseridas.</td>';
+          prefsTableBody.appendChild(tr);
+          setStatus(statusBar, "");
+          return;
+        }
+
+        prefs
+          .sort((a,b) => a.ordem - b.ordem)
+          .forEach((p) => {
+            const tr = document.createElement("tr");
+            const grShown = MODE === "EXTERNO" ? (p.grEscolhido || "") : (p.gr || "GR 000");
+            tr.innerHTML = `
+              <td>${p.ordem}</td>
+              <td>${grShown}</td>
+              <td>${p.tipoLabel}</td>
+              <td>${p.designacao}</td>
+            `;
+            prefsTableBody.appendChild(tr);
+          });
+
+        setStatus(statusBar, `Total: ${prefs.length} preferências. <span class="pill">${MODE}</span>`);
+      }
+
+      // Modal carregar 20
+      function openLoadModal() {
+        modalStatus.textContent = "";
+        prefList.innerHTML = "";
+
+        for (let i = 0; i < 20; i++) {
+          const div = document.createElement("div");
+          div.className = "prefItem";
+
+          // No Externo, cada preferência tem Grupo Recrutamento + Tipo + Código
+          const controls = MODE === "EXTERNO"
+            ? `
+              <div class="prefControls" style="grid-template-columns: 240px 1fr 220px;">
+                <div>
+                  <label class="smallLabel">Grupo Recrutamento</label>
+                  <select class="gr"></select>
+                </div>
+                <div>
+                  <label class="smallLabel">Tipo de preferência</label>
+                  <select class="tipo"></select>
+                </div>
+                <div>
+                  <label class="smallLabel">Código</label>
+                  <input class="codigo" value="" placeholder="2, 4 ou 6 dígitos" />
+                </div>
+              </div>
+            `
+            : `
+              <div class="prefControls">
+                <div>
+                  <label class="smallLabel">Tipo de preferência</label>
+                  <select class="tipo"></select>
+                </div>
+                <div>
+                  <label class="smallLabel">Código</label>
+                  <input class="codigo" value="" placeholder="2, 4 ou 6 dígitos" />
+                </div>
+              </div>
+            `;
+
+          div.innerHTML = `
+            <div class="prefItemTitle">Preferência ${String.fromCharCode(65 + (i % 26))} <span class="pill">Linha ${i+1}</span></div>
+            ${controls}
+          `;
+
+          const tipoSel = div.querySelector("select.tipo");
+          TIPOS.forEach(t => {
+            const opt = document.createElement("option");
+            opt.value = t.id;
+            opt.textContent = t.label;
+            tipoSel.appendChild(opt);
+          });
+
+          const grSel = div.querySelector("select.gr");
+          if (grSel) {
+            GRUPOS.forEach(g => {
+              const opt = document.createElement("option");
+              opt.value = g.id;
+              opt.textContent = g.label;
+              grSel.appendChild(opt);
+            });
+          }
+
+          prefList.appendChild(div);
+        }
+
+        overlayLoad.style.display = "flex";
+      }
+
+      function closeLoadModal() {
+        overlayLoad.style.display = "none";
+      }
+
+      // Modal inserir ordem específica (no externo também precisa GR)
+      let insertGrSel = null;
+      function openInsertAtModal(){
+        insertStatus.textContent = "";
+        insertTipo.innerHTML = "";
+        TIPOS.forEach(t => {
+          const opt = document.createElement("option");
+          opt.value = t.id;
+          opt.textContent = t.label;
+          insertTipo.appendChild(opt);
+        });
+
+        // inserir dropdown de GR só no externo
+        const body = overlayInsertAt.querySelector(".modalBody");
+        if (MODE === "EXTERNO") {
+          if (!insertGrSel) {
+            const block = document.createElement("div");
+            block.id = "insertGrBlock";
+            block.style.marginBottom = "10px";
+            block.innerHTML = `
+              <label class="smallLabel">Grupo Recrutamento</label>
+              <select id="insertGr"></select>
+            `;
+            body.insertBefore(block, body.firstChild);
+            insertGrSel = block.querySelector("#insertGr");
+          }
+          insertGrSel.innerHTML = "";
+          GRUPOS.forEach(g => {
+            const opt = document.createElement("option");
+            opt.value = g.id;
+            opt.textContent = g.label;
+            insertGrSel.appendChild(opt);
+          });
+        } else {
+          const existing = document.getElementById("insertGrBlock");
+          if (existing) existing.remove();
+          insertGrSel = null;
+        }
+
+        insertCodigo.value = "";
+        insertOrdem.value = "";
+        overlayInsertAt.style.display = "flex";
+      }
+
+      function closeInsertAtModal(){
+        overlayInsertAt.style.display = "none";
+      }
+
+      // Eventos
+      document.getElementById("btnOpenLoad").addEventListener("click", openLoadModal);
+      document.getElementById("btnCancelLoad").addEventListener("click", closeLoadModal);
+
+      document.getElementById("btnInsertAt").addEventListener("click", openInsertAtModal);
+      document.getElementById("btnCancelInsertAt").addEventListener("click", closeInsertAtModal);
+
+      // Carregar Novas Preferências
+      document.getElementById("btnLoadNow").addEventListener("click", () => {
+        const rows = Array.from(prefList.querySelectorAll(".prefItem"));
+        let added = 0;
+
+        for (let i = 0; i < rows.length; i++) {
+          const tipoId = rows[i].querySelector("select.tipo").value;
+          const codigoRaw = rows[i].querySelector("input.codigo").value;
+
+          const v = validateCodeForTipo(tipoId, codigoRaw);
+
+          // linha vazia: ignora
+          if ((codigoRaw || "").trim() === "") continue;
+
+          if (!v.ok) {
+            setStatus(modalStatus, `Erro na linha ${i+1}: ${v.msg}`, true);
+            return;
+          }
+
+          const t = TIPOS.find(x => x.id === tipoId);
+
+          if (MODE === "EXTERNO") {
+            const grId = rows[i].querySelector("select.gr").value;
+            const grLabel = GRUPOS.find(g => g.id === grId)?.label || grId;
+
+            prefs.push({
+              ordem: nextOrdem(),
+              grEscolhido: grLabel,
+              tipoId,
+              tipoLabel: t.label,
+              codigo: v.codigo,
+              designacao: designacaoFrom(tipoId, v.codigo)
+            });
+          } else {
+            prefs.push({
+              ordem: nextOrdem(),
+              gr: "GR 000",
+              tipoId,
+              tipoLabel: t.label,
+              codigo: v.codigo,
+              designacao: designacaoFrom(tipoId, v.codigo)
+            });
+          }
+
+          added++;
+        }
+
+        renderTable();
+        setStatus(modalStatus, `Foram adicionadas ${added} preferências.`, false);
+        closeLoadModal();
+      });
+
+      // Inserir numa ordem específica
+      document.getElementById("btnDoInsertAt").addEventListener("click", () => {
+        const tipoId = insertTipo.value;
+        const codigoRaw = insertCodigo.value;
+        const ordemRaw = (insertOrdem.value || "").trim();
+
+        const ordem = Number(ordemRaw);
+        if (!Number.isInteger(ordem) || ordem <= 0) {
+          setStatus(insertStatus, "Ordem inválida. Usa um número inteiro positivo.", true);
+          return;
+        }
+
+        const v = validateCodeForTipo(tipoId, codigoRaw);
+        if (!v.ok) {
+          setStatus(insertStatus, v.msg, true);
+          return;
+        }
+
+        // Tudo >= ordem sobe +1
+        prefs = prefs.map(p => p.ordem >= ordem ? { ...p, ordem: p.ordem + 1 } : p);
+
+        const t = TIPOS.find(x => x.id === tipoId);
+
+        if (MODE === "EXTERNO") {
+          const grLabel = insertGrSel ? (GRUPOS.find(g => g.id === insertGrSel.value)?.label || insertGrSel.value) : "";
+          prefs.push({
+            ordem,
+            grEscolhido: grLabel,
+            tipoId,
+            tipoLabel: t.label,
+            codigo: v.codigo,
+            designacao: designacaoFrom(tipoId, v.codigo)
+          });
+        } else {
+          prefs.push({
+            ordem,
+            gr: "GR 000",
+            tipoId,
+            tipoLabel: t.label,
+            codigo: v.codigo,
+            designacao: designacaoFrom(tipoId, v.codigo)
+          });
+        }
+
+        renderTable();
+        setStatus(insertStatus, "Inserido.", false);
+        closeInsertAtModal();
+      });
+
+      // Apagar todas
+      document.getElementById("btnDeleteAll").addEventListener("click", () => {
+        const ok = confirm("Tem a certeza que pretende apagar todas as preferências desta graduação?");
+        if (!ok) return;
+        prefs = [];
+        renderTable();
+      });
+
+      // Apagar últimas 10
+      document.getElementById("btnDeleteLast10").addEventListener("click", () => {
+        const ok = confirm("Tem a certeza que pretende apagar as últimas 10 preferências?");
+        if (!ok) return;
+        prefs.sort((a,b)=>a.ordem-b.ordem);
+        prefs = prefs.slice(0, Math.max(0, prefs.length - 10));
+        renderTable();
+      });
+
+      // Finalizar (bloqueia)
+      let finalized = false;
+      document.getElementById("btnFinalize").addEventListener("click", () => {
+        if (finalized) return;
+        const ok = confirm("Finalizar preferências? No SIGRHE isto impede alterações sem reabrir.");
+        if (!ok) return;
+        finalized = true;
+
+        const ids = ["btnOpenLoad","btnInsertAt","btnDeleteAll","btnDeleteLast10"];
+        ids.forEach(id => {
+          const b = document.getElementById(id);
+          b.classList.add("disabled");
+          b.disabled = true;
+        });
+
+        setStatus(statusBar, `Finalizado. Total: ${prefs.length} preferências. <span class="pill">${MODE}</span>`);
+      });
+
+      // Fechar modais ao clicar fora
+      overlayLoad.addEventListener("click", (e) => { if (e.target === overlayLoad) closeLoadModal(); });
+      overlayInsertAt.addEventListener("click", (e) => { if (e.target === overlayInsertAt) closeInsertAtModal(); });
+
+      renderModeSelector();
+      setMode(MODE);
+      renderTable();
+    </script>
+
+  </body>
+</html>

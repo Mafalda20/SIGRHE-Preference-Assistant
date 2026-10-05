@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Assistente - 20 Preferências</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 0; background:#fff; }
+      .top { background:#f2f2f2; border-bottom:1px solid #ddd; padding:12px 16px; font-weight:bold; }
+      .wrap { padding: 16px; max-width: 1100px; margin: 0 auto; }
+      .rules { font-size:12px; color:#333; background:#fff3cd; border-radius:8px; padding:10px 12px; }
+      .list { margin-top: 12px; border:1px solid #ddd; }
+      .item { padding: 12px; border-bottom:1px solid #eee; }
+      .item:last-child { border-bottom:none; }
+      .title { font-weight:bold; margin-bottom: 8px; }
+      .grid { display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+      label { display:block; font-size:12px; margin-bottom:4px; }
+      .actions { display:flex; gap: 10px; margin-top: 12px; }
+      button { padding:10px 12px; cursor:pointer; }
+      .btnPrimary { background:#6fbf44; border:1px solid #4a9a2f; color:#103b08; }
+      .btnSecondary { background:#f2f2f2; border:1px solid #ddd; }
+      .msg { margin-top:10px; font-size:12px; }
+      .err { color:#b71c1c; }
+      .ok { color:#1b5e20; }
+
+      .searchDropdown{
+        position:relative;
+        width:100%;
+      }
+
+      .searchDropdownTrigger{
+        position:relative;
+        width:100%;
+      }
+
+      .searchDropdownInput{
+        width:100%;
+        padding:8px 34px 8px 8px;
+        background:#e9f6dc;
+        border:1px solid #cfcfcf;
+        box-sizing:border-box;
+      }
+
+      
+
+      select {
+        width:100%;
+        padding:8px 34px 8px 8px;
+        background:#e9f6dc;
+        border:1px solid #cfcfcf;
+        box-sizing:border-box;
+        appearance:none;
+        -webkit-appearance:none;
+        -moz-appearance:none;
+        position:relative;
+      }
+
+      .searchDropdownArrow{
+        position:absolute;
+        right:10px;
+        top:50%;
+        transform:translateY(-50%);
+        pointer-events:none;
+        color:#333;
+        font-size:14px;
+      }
+
+      .searchDropdown.open .searchDropdownArrow{
+        transform:translateY(-50%) rotate(180deg);
+      }
+
+      .searchDropdownMenu{
+        display:none;
+        position:absolute;
+        top:100%;
+        left:0;
+        right:0;
+        z-index:1000;
+        background:#f8fff1;
+        border:1px solid #cfcfcf;
+        max-height:220px;
+        overflow-y:auto;
+        box-sizing:border-box;
+        box-shadow:0 2px 6px rgba(0,0,0,0.15);
+      }
+
+      .searchDropdown.open .searchDropdownMenu{
+        display:block;
+      }
+
+      .searchDropdownItem{
+        padding:8px 10px;
+        cursor:pointer;
+        border-top:1px solid #e6eedc;
+      }
+
+      .searchDropdownItem:hover,
+      .searchDropdownItem.selected{
+        background:#dff0c8;
+      }
+
+      .searchDropdownEmpty{
+        padding:8px 10px;
+        color:#666;
+        font-style:italic;
+      }
+
+      .selectWrap{
+        position:relative;
+      }
+
+      .selectWrap::after{
+        content:"▾";
+        position:absolute;
+        right:10px;
+        top:50%;
+        transform:translateY(-50%);
+        pointer-events:none;
+        font-size:12px;
+        color:#333;
+      }
+
+      .rowActions{
+        display:flex;
+        gap:6px;
+        align-items:center;
+      }
+
+      .rowBtn{
+        font-size:11px;
+        padding:4px 8px;
+        border:1px solid #cfcfcf;
+        background:#f2f2f2;
+        cursor:pointer;
+        border-radius:4px;
+        box-shadow:0 1px 2px rgba(0,0,0,0.08);
+        transition:all 0.15s ease;
+      }
+
+      .rowBtn:hover{
+        background:#e6e6e6;
+        box-shadow:0 2px 5px rgba(0,0,0,0.15);
+      }
+
+      .titleRow{
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+      }
+
+      .rowBtn:active{
+        transform:translateY(1px);
+        box-shadow:0 1px 2px rgba(0,0,0,0.08);
+      }
+
+      .rowBtnSuccess{
+        background:#dff0c8 !important;
+        border-color:#9bbb6b !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="top">Assistente de Preferências (20 de cada vez)</div>
+
+    <div class="wrap">
+      <div class="rules">
+        Escolhe o Tipo e depois seleciona a opção (em vez de escrever códigos). No fim, clica “Preencher no SIGRHE”.
+      </div>
+
+      <div class="actions">
+        <button class="btnPrimary" id="btnFill">Preencher no separador SIGRHE (não submete)</button>
+      </div>
+
+      <div id="msg" class="msg"></div>
+
+      <div class="list" id="list"></div>
+    </div>
+
+    <script src="page.js"></script>
+  </body>
+</html>

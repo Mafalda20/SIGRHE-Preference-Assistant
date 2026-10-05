@@ -1,0 +1,5665 @@
+[
+  {
+    "qzp": "01",
+    "concelho": "Melgaço",
+    "concelhoCodigo": "1603",
+    "codigoAE": "152602",
+    "nomeAE": "Agrupamento de Escolas de Melgaço"
+  },
+  {
+    "qzp": "01",
+    "concelho": "Monção",
+    "concelhoCodigo": "1604",
+    "codigoAE": "153023",
+    "nomeAE": "Agrupamento de Escolas de Monção"
+  },
+  {
+    "qzp": "01",
+    "concelho": "Valença",
+    "concelhoCodigo": "1608",
+    "codigoAE": "150587",
+    "nomeAE": "Agrupamento de Escolas de Muralhas do Minho, Valença"
+  },
+  {
+    "qzp": "02",
+    "concelho": "Caminha",
+    "concelhoCodigo": "1602",
+    "codigoAE": "152596",
+    "nomeAE": "Agrupamento de Escolas do Concelho de Caminha, Caminha"
+  },
+  {
+    "qzp": "02",
+    "concelho": "Viana do Castelo",
+    "concelhoCodigo": "1609",
+    "codigoAE": "150083",
+    "nomeAE": "Agrupamento de Escolas da Abelheira, Viana do Castelo"
+  },
+  {
+    "qzp": "02",
+    "concelho": "Viana do Castelo",
+    "concelhoCodigo": "1609",
+    "codigoAE": "150381",
+    "nomeAE": "Agrupamento de Escolas de Monserrate, Viana do Castelo"
+  },
+  {
+    "qzp": "02",
+    "concelho": "Viana do Castelo",
+    "concelhoCodigo": "1609",
+    "codigoAE": "151567",
+    "nomeAE": "Agrupamento de Escolas de Santa Maria Maior, Viana do Castelo"
+  },
+  {
+    "qzp": "02",
+    "concelho": "Viana do Castelo",
+    "concelhoCodigo": "1609",
+    "codigoAE": "151580",
+    "nomeAE": "Agrupamento de Escolas de Arga e Lima, Viana do Castelo"
+  },
+  {
+    "qzp": "02",
+    "concelho": "Viana do Castelo",
+    "concelhoCodigo": "1609",
+    "codigoAE": "151592",
+    "nomeAE": "Agrupamento de Escolas Pintor José de Brito, Viana do Castelo"
+  },
+  {
+    "qzp": "02",
+    "concelho": "Viana do Castelo",
+    "concelhoCodigo": "1609",
+    "codigoAE": "152675",
+    "nomeAE": "Agrupamento de Escolas de Barroselas, Viana do Castelo"
+  },
+  {
+    "qzp": "02",
+    "concelho": "Viana do Castelo",
+    "concelhoCodigo": "1609",
+    "codigoAE": "152687",
+    "nomeAE": "Agrupamento de Escolas de Monte da Ola, Viana do Castelo TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "02",
+    "concelho": "Vila Nova de Cerveira",
+    "concelhoCodigo": "1610",
+    "codigoAE": "151579",
+    "nomeAE": "Agrupamento de Escolas de Vila Nova de Cerveira"
+  },
+  {
+    "qzp": "03",
+    "concelho": "Arcos de Valdevez",
+    "concelhoCodigo": "1601",
+    "codigoAE": "152584",
+    "nomeAE": "Agrupamento de Escolas de Valdevez, Arcos de Valdevez"
+  },
+  {
+    "qzp": "03",
+    "concelho": "Paredes de Coura",
+    "concelhoCodigo": "1605",
+    "codigoAE": "152614",
+    "nomeAE": "Agrupamento de Escolas de Paredes de Coura"
+  },
+  {
+    "qzp": "03",
+    "concelho": "Ponte da Barca",
+    "concelhoCodigo": "1606",
+    "codigoAE": "152626",
+    "nomeAE": "Agrupamento de Escolas de Ponte da Barca"
+  },
+  {
+    "qzp": "03",
+    "concelho": "Ponte de Lima",
+    "concelhoCodigo": "1607",
+    "codigoAE": "152638",
+    "nomeAE": "Agrupamento de Escolas de Ponte de Lima"
+  },
+  {
+    "qzp": "03",
+    "concelho": "Ponte de Lima",
+    "concelhoCodigo": "1607",
+    "codigoAE": "152640",
+    "nomeAE": "Agrupamento de Escolas de Arcozelo, Ponte de Lima"
+  },
+  {
+    "qzp": "03",
+    "concelho": "Ponte de Lima",
+    "concelhoCodigo": "1607",
+    "codigoAE": "152651",
+    "nomeAE": "Agrupamento de Escolas António Feijó, Ponte de Lima"
+  },
+  {
+    "qzp": "03",
+    "concelho": "Ponte de Lima",
+    "concelhoCodigo": "1607",
+    "codigoAE": "152663",
+    "nomeAE": "Agrupamento de Escolas de Freixo, Ponte de Lima Contrato de Autonomia"
+  },
+  {
+    "qzp": "03",
+    "concelho": "Ponte de Lima",
+    "concelhoCodigo": "1607",
+    "codigoAE": "404287",
+    "nomeAE": "Escola Profissional de Agricultura e Desenvolvimento Rural de Ponte de Lima"
+  },
+  {
+    "qzp": "04",
+    "concelho": "Amares",
+    "concelhoCodigo": "0301",
+    "codigoAE": "150459",
+    "nomeAE": "Agrupamento de Escolas de Amares"
+  },
+  {
+    "qzp": "04",
+    "concelho": "Terras de Bouro",
+    "concelhoCodigo": "0310",
+    "codigoAE": "150319",
+    "nomeAE": "Agrupamento de Escolas de Terras de Bouro"
+  },
+  {
+    "qzp": "04",
+    "concelho": "Vila Verde",
+    "concelhoCodigo": "0313",
+    "codigoAE": "150885",
+    "nomeAE": "Agrupamento de Escolas de Moure e Ribeira de Neiva, Vila Verde Contrato de Autonomia"
+  },
+  {
+    "qzp": "04",
+    "concelho": "Vila Verde",
+    "concelhoCodigo": "0313",
+    "codigoAE": "150897",
+    "nomeAE": "Agrupamento de Escolas de Prado, Vila Verde TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "04",
+    "concelho": "Vila Verde",
+    "concelhoCodigo": "0313",
+    "codigoAE": "151774",
+    "nomeAE": "Agrupamento de Escolas de Vila Verde"
+  },
+  {
+    "qzp": "04",
+    "concelho": "Vila Verde",
+    "concelhoCodigo": "0313",
+    "codigoAE": "403751",
+    "nomeAE": "Escola Secundária de Vila Verde Contrato de Autonomia"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Barcelos",
+    "concelhoCodigo": "0302",
+    "codigoAE": "150137",
+    "nomeAE": "Agrupamento de Escolas Alcaides de Faria, Barcelos"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Barcelos",
+    "concelhoCodigo": "0302",
+    "codigoAE": "150460",
+    "nomeAE": "Agrupamento de Escolas de Vila Cova, Barcelos Contrato de Autonomia"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Barcelos",
+    "concelhoCodigo": "0302",
+    "codigoAE": "150710",
+    "nomeAE": "Agrupamento de Escolas Gonçalo Nunes, Barcelos Contrato de Autonomia"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Barcelos",
+    "concelhoCodigo": "0302",
+    "codigoAE": "150927",
+    "nomeAE": "Agrupamento de Escolas de Barcelos"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Barcelos",
+    "concelhoCodigo": "0302",
+    "codigoAE": "150939",
+    "nomeAE": "Agrupamento de Escolas de Vale do Tamel, Barcelos Contrato de Autonomia"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Barcelos",
+    "concelhoCodigo": "0302",
+    "codigoAE": "150940",
+    "nomeAE": "Agrupamento de Escolas Rosa Ramalho, Barcelos Contrato de Autonomia"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Barcelos",
+    "concelhoCodigo": "0302",
+    "codigoAE": "151245",
+    "nomeAE": "Agrupamento de Escolas de Fragoso, Barcelos Contrato de Autonomia"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Barcelos",
+    "concelhoCodigo": "0302",
+    "codigoAE": "151257",
+    "nomeAE": "Agrupamento de Escolas de Vale D´Este, Barcelos"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Barcelos",
+    "concelhoCodigo": "0302",
+    "codigoAE": "403787",
+    "nomeAE": "Escola Secundária de Barcelinhos, Barcelos Contrato de Autonomia"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Esposende",
+    "concelhoCodigo": "0306",
+    "codigoAE": "150850",
+    "nomeAE": "Agrupamento de Escolas António Correia de Oliveira, Esposende"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Esposende",
+    "concelhoCodigo": "0306",
+    "codigoAE": "152894",
+    "nomeAE": "Agrupamento de Escolas António Rodrigues Sampaio, Esposende"
+  },
+  {
+    "qzp": "05",
+    "concelho": "Esposende",
+    "concelhoCodigo": "0306",
+    "codigoAE": "401882",
+    "nomeAE": "Escola Secundária Henrique Medina, Esposende Contrato de Autonomia"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "150149",
+    "nomeAE": "Agrupamento de Escolas Carlos Amarante, Braga"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "150241",
+    "nomeAE": "Agrupamento de Escolas Sá de Miranda, Braga"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "150253",
+    "nomeAE": "Agrupamento de Escolas de Braga Oeste"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "150721",
+    "nomeAE": "Agrupamento de Escolas de Maximinos, Braga TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "150952",
+    "nomeAE": "Agrupamento de Escolas André Soares, Braga Contrato de Autonomia"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "150964",
+    "nomeAE": "Agrupamento de Escolas de Trigal de Santa Maria, Braga 24/03/2025 1"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "150976",
+    "nomeAE": "Agrupamento de Escolas Alberto Sampaio, Braga"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "150988",
+    "nomeAE": "Agrupamento de Escolas Dr. Francisco Sanches, Braga TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "150990",
+    "nomeAE": "Agrupamento de Escolas D. Maria II, Braga"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "151002",
+    "nomeAE": "Agrupamento de Escolas de Celeirós, Braga"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "151713",
+    "nomeAE": "Agrupamento de Escolas de Mosteiro e Cávado, Braga Contrato de Autonomia"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "151725",
+    "nomeAE": "Agrupamento de Escolas de Real, Braga Contrato de Autonomia"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Braga",
+    "concelhoCodigo": "0303",
+    "codigoAE": "404251",
+    "nomeAE": "Escola Artística do Conservatório de Música Calouste Gulbenkian, Braga"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Póvoa de Lanhoso",
+    "concelhoCodigo": "0309",
+    "codigoAE": "150320",
+    "nomeAE": "Agrupamento de Escolas Gonçalo Sampaio, Póvoa de Lanhoso Contrato de Autonomia"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Póvoa de Lanhoso",
+    "concelhoCodigo": "0309",
+    "codigoAE": "150915",
+    "nomeAE": "Agrupamento de Escolas de Póvoa de Lanhoso"
+  },
+  {
+    "qzp": "06",
+    "concelho": "Vieira do Minho",
+    "concelhoCodigo": "0311",
+    "codigoAE": "150605",
+    "nomeAE": "Agrupamento de Escolas Vieira Araújo, Vieira do Minho"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "150290",
+    "nomeAE": "Agrupamento de Escolas Virgínia Moura, Guimarães Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "150307",
+    "nomeAE": "Agrupamento de Escolas do Vale de São Torcato, Guimarães TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "150514",
+    "nomeAE": "Agrupamento de Escolas Arquiteto Fernando Távora, Guimarães TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "150812",
+    "nomeAE": "Agrupamento de Escolas Professor Abel Salazar, Guimarães Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "151014",
+    "nomeAE": "Agrupamento de Escolas Francisco de Holanda, Guimarães"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "151026",
+    "nomeAE": "Agrupamento de Escolas das Taipas, Guimarães"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "151038",
+    "nomeAE": "Agrupamento de Escolas D. Afonso Henriques, Guimarães"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "151040",
+    "nomeAE": "Agrupamento de Escolas de Pevidém, Guimarães"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "151051",
+    "nomeAE": "Agrupamento de Escolas Arqueólogo Mário Cardoso, Guimarães Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "151063",
+    "nomeAE": "Agrupamento de Escolas Gil Vicente, Guimarães"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "151749",
+    "nomeAE": "Agrupamento de Escolas João de Meira, Guimarães Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "151750",
+    "nomeAE": "Agrupamento de Escolas de Briteiros, Guimarães Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "152912",
+    "nomeAE": "Agrupamento de Escolas Santos Simões, Guimarães Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "152924",
+    "nomeAE": "Agrupamento de Escolas de Abação, Guimarães Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "401031",
+    "nomeAE": "Escola Secundária de Caldas das Taipas, Guimarães Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Guimarães",
+    "concelhoCodigo": "0308",
+    "codigoAE": "402187",
+    "nomeAE": "Escola Secundária Martins Sarmento, Guimarães Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Vila Nova de Famalicão",
+    "concelhoCodigo": "0312",
+    "codigoAE": "150617",
+    "nomeAE": "Agrupamento de Escolas de Gondifelos, Vila Nova de Famalicão Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Vila Nova de Famalicão",
+    "concelhoCodigo": "0312",
+    "codigoAE": "150629",
+    "nomeAE": "Agrupamento de Escolas Terras do Ave TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Vila Nova de Famalicão",
+    "concelhoCodigo": "0312",
+    "codigoAE": "150630",
+    "nomeAE": "Agrupamento de Escolas de Ribeirão, Vila Nova de Famalicão"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Vila Nova de Famalicão",
+    "concelhoCodigo": "0312",
+    "codigoAE": "150642",
+    "nomeAE": "Agrupamento de Escolas D. Sancho I, Vila Nova de Famalicão TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Vila Nova de Famalicão",
+    "concelhoCodigo": "0312",
+    "codigoAE": "150800",
+    "nomeAE": "Agrupamento de Escolas Padre Benjamim Salgado, Vila Nova de Famalicão"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Vila Nova de Famalicão",
+    "concelhoCodigo": "0312",
+    "codigoAE": "151075",
+    "nomeAE": "Agrupamento de Escolas D. Maria II, Vila Nova de Famalicão"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Vila Nova de Famalicão",
+    "concelhoCodigo": "0312",
+    "codigoAE": "151762",
+    "nomeAE": "Agrupamento de Escolas Camilo Castelo Branco, Vila Nova de Famalicão"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Vizela",
+    "concelhoCodigo": "0314",
+    "codigoAE": "100377",
+    "nomeAE": "Agrupamento de Escolas de S. Bento, Vizela Contrato de Autonomia"
+  },
+  {
+    "qzp": "07",
+    "concelho": "Vizela",
+    "concelhoCodigo": "0314",
+    "codigoAE": "151786",
+    "nomeAE": "Agrupamento de Escolas de Caldas de Vizela, Vizela"
+  },
+  {
+    "qzp": "08",
+    "concelho": "Cabeceiras de Basto",
+    "concelhoCodigo": "0304",
+    "codigoAE": "150162",
+    "nomeAE": "Agrupamento de Escolas de Cabeceiras de Basto Contrato de Autonomia"
+  },
+  {
+    "qzp": "08",
+    "concelho": "Celorico de Basto",
+    "concelhoCodigo": "0305",
+    "codigoAE": "151737",
+    "nomeAE": "Agrupamento de Escolas de Celorico de Basto"
+  },
+  {
+    "qzp": "08",
+    "concelho": "Celorico de Basto",
+    "concelhoCodigo": "0305",
+    "codigoAE": "404070",
+    "nomeAE": "Escola Profissional Agrícola Eng. Silva Nunes, Molares, Celorico de Basto"
+  },
+  {
+    "qzp": "08",
+    "concelho": "Fafe",
+    "concelhoCodigo": "0307",
+    "codigoAE": "150496",
+    "nomeAE": "Agrupamento de Escolas de Montelongo, Fafe"
+  },
+  {
+    "qzp": "08",
+    "concelho": "Fafe",
+    "concelhoCodigo": "0307",
+    "codigoAE": "150502",
+    "nomeAE": "Agrupamento de Escolas Prof. Carlos Teixeira, Fafe Contrato de Autonomia"
+  },
+  {
+    "qzp": "08",
+    "concelho": "Fafe",
+    "concelhoCodigo": "0307",
+    "codigoAE": "152882",
+    "nomeAE": "Agrupamento de Escolas de Fafe"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "150009",
+    "nomeAE": "Agrupamento de Escolas n.º 3 de Rio Tinto, Gondomar Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "151105",
+    "nomeAE": "Agrupamento de Escolas À Beira Douro, Gondomar"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "151956",
+    "nomeAE": "Agrupamento de Escolas Santa Bárbara, Gondomar TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia 24/03/2025 2"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "151968",
+    "nomeAE": "Agrupamento de Escolas Júlio Dinis, Gondomar"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "151970",
+    "nomeAE": "Agrupamento de Escolas de Valbom, Gondomar TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "151981",
+    "nomeAE": "Agrupamento de Escolas Infanta D. Mafalda, Gondomar"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "151993",
+    "nomeAE": "Agrupamento de Escolas n.º 1 de Gondomar"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "152006",
+    "nomeAE": "Agrupamento de Escolas de Rio Tinto, Gondomar"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "152018",
+    "nomeAE": "Agrupamento de Escolas de São Pedro da Cova, Gondomar TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Gondomar",
+    "concelhoCodigo": "1304",
+    "codigoAE": "403404",
+    "nomeAE": "Escola Secundária de São Pedro da Cova, Gondomar TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Maia",
+    "concelhoCodigo": "1306",
+    "codigoAE": "152020",
+    "nomeAE": "Agrupamento de Escolas da Maia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Maia",
+    "concelhoCodigo": "1306",
+    "codigoAE": "152031",
+    "nomeAE": "Agrupamento de Escolas Gonçalo Mendes da Maia, Maia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Maia",
+    "concelhoCodigo": "1306",
+    "codigoAE": "152043",
+    "nomeAE": "Agrupamento de Escolas de Pedrouços, Maia TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Maia",
+    "concelhoCodigo": "1306",
+    "codigoAE": "152055",
+    "nomeAE": "Agrupamento de Escolas Dr. Vieira de Carvalho, Maia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Maia",
+    "concelhoCodigo": "1306",
+    "codigoAE": "152067",
+    "nomeAE": "Agrupamento de Escolas do Castêlo da Maia, Maia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Maia",
+    "concelhoCodigo": "1306",
+    "codigoAE": "152079",
+    "nomeAE": "Agrupamento de Escolas do Levante da Maia, Maia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Maia",
+    "concelhoCodigo": "1306",
+    "codigoAE": "152961",
+    "nomeAE": "Agrupamento de Escolas de Águas Santas, Maia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "150393",
+    "nomeAE": "Agrupamento de Escolas Dr. José Domingues dos Santos, Matosinhos Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "150757",
+    "nomeAE": "Agrupamento de Escolas de Perafita, Matosinhos TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "151403",
+    "nomeAE": "Agrupamento de Escolas de Padrão da Légua, Matosinhos"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "151610",
+    "nomeAE": "Agrupamento de Escolas Abel Salazar, Matosinhos"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "152080",
+    "nomeAE": "Agrupamento de Escolas da Senhora da Hora, Matosinhos"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "152092",
+    "nomeAE": "Agrupamento de Escolas Engº Fernando Pinto de Oliveira, Matosinhos Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "152109",
+    "nomeAE": "Agrupamento de Escolas de Matosinhos TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "152110",
+    "nomeAE": "Agrupamento de Escolas Irmãos Passos, Matosinhos"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "152122",
+    "nomeAE": "Agrupamento de Escolas Professor Óscar Lopes, Matosinhos TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "400956",
+    "nomeAE": "Escola Secundária Augusto Gomes, Matosinhos Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "401006",
+    "nomeAE": "Escola Secundária da Boa Nova, Leça da Palmeira, Matosinhos"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Matosinhos",
+    "concelhoCodigo": "1308",
+    "codigoAE": "402011",
+    "nomeAE": "Escola Secundária João Gonçalves Zarco, Matosinhos Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Paredes",
+    "concelhoCodigo": "1310",
+    "codigoAE": "150770",
+    "nomeAE": "Agrupamento de Escolas de Cristelo, Paredes TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Paredes",
+    "concelhoCodigo": "1310",
+    "codigoAE": "150782",
+    "nomeAE": "Agrupamento de Escolas de Sobreira, Paredes"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Paredes",
+    "concelhoCodigo": "1310",
+    "codigoAE": "150861",
+    "nomeAE": "Agrupamento de Escolas de Lordelo, Paredes Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Paredes",
+    "concelhoCodigo": "1310",
+    "codigoAE": "151452",
+    "nomeAE": "Agrupamento de Escolas Daniel Faria, Paredes"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Paredes",
+    "concelhoCodigo": "1310",
+    "codigoAE": "151543",
+    "nomeAE": "Agrupamento de Escolas de Paredes TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Paredes",
+    "concelhoCodigo": "1310",
+    "codigoAE": "151555",
+    "nomeAE": "Agrupamento de Escolas de Vilela, Paredes Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Paredes",
+    "concelhoCodigo": "1310",
+    "codigoAE": "402424",
+    "nomeAE": "Escola Secundária de Paredes"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "150400",
+    "nomeAE": "Agrupamento de Escolas do Viso, Porto TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "150873",
+    "nomeAE": "Agrupamento de Escolas Fontes Pereira de Melo, Porto Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "151385",
+    "nomeAE": "Agrupamento de Escolas Eugénio de Andrade, Porto"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152158",
+    "nomeAE": "Agrupamento de Escolas do Cerco, Porto TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152160",
+    "nomeAE": "Agrupamento de Escolas Pêro Vaz de Caminha, Porto TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152171",
+    "nomeAE": "Agrupamento de Escolas Infante D. Henrique, Porto"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152183",
+    "nomeAE": "Agrupamento de Escolas Carolina Michaelis, Porto"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152195",
+    "nomeAE": "Agrupamento de Escolas Manoel de Oliveira, Porto TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152201",
+    "nomeAE": "Agrupamento de Escolas Garcia de Orta, Porto"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152213",
+    "nomeAE": "Agrupamento de Escolas Leonardo Coimbra-Filho, Porto TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152225",
+    "nomeAE": "Agrupamento de Escolas Aurélia de Sousa, Porto 24/03/2025 3"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152237",
+    "nomeAE": "Agrupamento de Escolas António Nobre, Porto TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152870",
+    "nomeAE": "Agrupamento de Escolas Clara de Resende, Porto"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "152950",
+    "nomeAE": "Agrupamento de Escolas Rodrigues de Freitas, Porto TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "153000",
+    "nomeAE": "Agrupamento de Escolas Alexandre Herculano, Porto TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "401766",
+    "nomeAE": "Escola Secundária Filipa de Vilhena, Porto Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "404184",
+    "nomeAE": "Escola Artística Soares dos Reis, Porto"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "404214",
+    "nomeAE": "Escola Artística do Conservatório de Música do Porto"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Porto",
+    "concelhoCodigo": "1312",
+    "codigoAE": "404378",
+    "nomeAE": "Escola Profissional Infante D. Henrique"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Póvoa de Varzim",
+    "concelhoCodigo": "1313",
+    "codigoAE": "152249",
+    "nomeAE": "Agrupamento de Escolas Dr. Flávio Gonçalves, Póvoa de Varzim Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Póvoa de Varzim",
+    "concelhoCodigo": "1313",
+    "codigoAE": "152250",
+    "nomeAE": "Agrupamento de Escolas Cego do Maio, Póvoa de Varzim"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Póvoa de Varzim",
+    "concelhoCodigo": "1313",
+    "codigoAE": "152262",
+    "nomeAE": "Agrupamento de Escolas de Aver-o-Mar, Póvoa de Varzim Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Póvoa de Varzim",
+    "concelhoCodigo": "1313",
+    "codigoAE": "152274",
+    "nomeAE": "Agrupamento de Escolas Campo Aberto, Póvoa de Varzim Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Póvoa de Varzim",
+    "concelhoCodigo": "1313",
+    "codigoAE": "152286",
+    "nomeAE": "Agrupamento de Escolas de Rates, Póvoa de Varzim Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Póvoa de Varzim",
+    "concelhoCodigo": "1313",
+    "codigoAE": "401675",
+    "nomeAE": "Escola Secundária Eça de Queirós, Póvoa de Varzim Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Póvoa de Varzim",
+    "concelhoCodigo": "1313",
+    "codigoAE": "402680",
+    "nomeAE": "Escola Secundária Rocha Peixoto, Póvoa de Varzim"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Santo Tirso",
+    "concelhoCodigo": "1314",
+    "codigoAE": "151130",
+    "nomeAE": "Agrupamento de Escolas D. Afonso Henriques, Santo Tirso Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Santo Tirso",
+    "concelhoCodigo": "1314",
+    "codigoAE": "151142",
+    "nomeAE": "Agrupamento de Escolas Tomaz Pelayo, Santo Tirso"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Santo Tirso",
+    "concelhoCodigo": "1314",
+    "codigoAE": "152298",
+    "nomeAE": "Agrupamento de Escolas D.Dinis,Santo Tirso"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Santo Tirso",
+    "concelhoCodigo": "1314",
+    "codigoAE": "152304",
+    "nomeAE": "Agrupamento de Escolas de São Martinho, Santo Tirso"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Santo Tirso",
+    "concelhoCodigo": "1314",
+    "codigoAE": "330838",
+    "nomeAE": "Escola Básica da Ponte, Vila das Aves, Santo Tirso Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Santo Tirso",
+    "concelhoCodigo": "1314",
+    "codigoAE": "404007",
+    "nomeAE": "Escola Profissional Agrícola Conde de São Bento, Santo Tirso"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Trofa",
+    "concelhoCodigo": "1318",
+    "codigoAE": "151154",
+    "nomeAE": "Agrupamento de Escolas de Coronado e Castro, Trofa"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Trofa",
+    "concelhoCodigo": "1318",
+    "codigoAE": "152316",
+    "nomeAE": "Agrupamento de Escolas da Trofa"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Valongo",
+    "concelhoCodigo": "1315",
+    "codigoAE": "152328",
+    "nomeAE": "Agrupamento de Escolas de São Lourenço, Valongo"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Valongo",
+    "concelhoCodigo": "1315",
+    "codigoAE": "152330",
+    "nomeAE": "Agrupamento de Escolas de Vallis Longus, Valongo"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Valongo",
+    "concelhoCodigo": "1315",
+    "codigoAE": "152341",
+    "nomeAE": "Agrupamento de Escolas de Campo, Valongo Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Valongo",
+    "concelhoCodigo": "1315",
+    "codigoAE": "152353",
+    "nomeAE": "Agrupamento de Escolas de Valongo"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Valongo",
+    "concelhoCodigo": "1315",
+    "codigoAE": "152365",
+    "nomeAE": "Agrupamento de Escolas de Alfena, Valongo"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Valongo",
+    "concelhoCodigo": "1315",
+    "codigoAE": "152377",
+    "nomeAE": "Agrupamento de Escolas de Ermesinde, Valongo"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila do Conde",
+    "concelhoCodigo": "1316",
+    "codigoAE": "150411",
+    "nomeAE": "Agrupamento de Escolas Dr. Carlos Pinto Ferreira, Vila do Conde Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila do Conde",
+    "concelhoCodigo": "1316",
+    "codigoAE": "150848",
+    "nomeAE": "Agrupamento de Escolas D. Pedro IV, Vila do Conde"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila do Conde",
+    "concelhoCodigo": "1316",
+    "codigoAE": "152389",
+    "nomeAE": "Agrupamento de Escolas Frei João de Vila do Conde, Vila do Conde Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila do Conde",
+    "concelhoCodigo": "1316",
+    "codigoAE": "152390",
+    "nomeAE": "Agrupamento de Escolas D. Afonso Sanches, Vila do Conde"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila do Conde",
+    "concelhoCodigo": "1316",
+    "codigoAE": "401997",
+    "nomeAE": "Escola Secundária José Régio, Vila do Conde Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "151397",
+    "nomeAE": "Agrupamento de Escolas Júlio Dinis, Vila Nova de Gaia Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "151427",
+    "nomeAE": "Agrupamento de Escolas Sophia de Mello Breyner, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152419",
+    "nomeAE": "Agrupamento de Escolas da Madalena, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152420",
+    "nomeAE": "Agrupamento de Escolas Diogo de Macedo, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152432",
+    "nomeAE": "Agrupamento de Escolas Escultor António Fernandes Sá, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152444",
+    "nomeAE": "Agrupamento de Escolas António Sérgio, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152456",
+    "nomeAE": "Agrupamento de Escolas de Valadares, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152468",
+    "nomeAE": "Agrupamento de Escolas de Carvalhos, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152470",
+    "nomeAE": "Agrupamento de Escolas Soares dos Reis, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152481",
+    "nomeAE": "Agrupamento de Escolas de Canelas, Vila Nova de Gaia 24/03/2025 4"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152493",
+    "nomeAE": "Agrupamento de Escolas de Vila D´Este, Vila Nova de Gaia TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152500",
+    "nomeAE": "Agrupamento de Escolas D. Pedro I, Vila Nova de Gaia TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "152511",
+    "nomeAE": "Agrupamento de Escolas Dr. Costa Matos, Vila Nova de Gaia Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "153011",
+    "nomeAE": "Agrupamento de Escolas Gaia Nascente, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "400798",
+    "nomeAE": "Escola Secundária Almeida Garrett, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "401468",
+    "nomeAE": "Escola Secundária Dr. Joaquim Gomes Ferreira Alves, Valadares, Vila NovaC on trato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "401936",
+    "nomeAE": "Escola Secundária Inês de Castro, Canidelo, Vila Nova de Gaia TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "09",
+    "concelho": "Vila Nova de Gaia",
+    "concelhoCodigo": "1317",
+    "codigoAE": "403337",
+    "nomeAE": "Escola Secundária Arquitecto Oliveira Ferreira, Praia da Granja, Vila Nova de Gaia"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Felgueiras",
+    "concelhoCodigo": "1303",
+    "codigoAE": "151439",
+    "nomeAE": "Agrupamento de Escolas de Airães, Felgueiras"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Felgueiras",
+    "concelhoCodigo": "1303",
+    "codigoAE": "151440",
+    "nomeAE": "Agrupamento de Escolas de Idães, Felgueiras"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Felgueiras",
+    "concelhoCodigo": "1303",
+    "codigoAE": "151490",
+    "nomeAE": "Agrupamento de Escolas Dr. Machado de Matos, Felgueiras"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Felgueiras",
+    "concelhoCodigo": "1303",
+    "codigoAE": "151506",
+    "nomeAE": "Agrupamento de Escolas da Lixa, Felgueiras"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Felgueiras",
+    "concelhoCodigo": "1303",
+    "codigoAE": "151520",
+    "nomeAE": "Agrupamento de Escolas D. Manuel de Faria e Sousa, Felgueiras TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Felgueiras",
+    "concelhoCodigo": "1303",
+    "codigoAE": "401687",
+    "nomeAE": "Escola Secundária de Felgueiras"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Lousada",
+    "concelhoCodigo": "1305",
+    "codigoAE": "150370",
+    "nomeAE": "Agrupamento de Escolas Dr. Mário Fonseca, Lousada"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Lousada",
+    "concelhoCodigo": "1305",
+    "codigoAE": "151464",
+    "nomeAE": "Agrupamento de Escolas de Lousada Este"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Lousada",
+    "concelhoCodigo": "1305",
+    "codigoAE": "151518",
+    "nomeAE": "Agrupamento de Escolas de Lousada"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Lousada",
+    "concelhoCodigo": "1305",
+    "codigoAE": "151531",
+    "nomeAE": "Agrupamento de Escolas de Lousada Oeste"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Paços de Ferreira",
+    "concelhoCodigo": "1309",
+    "codigoAE": "150769",
+    "nomeAE": "Agrupamento de Escolas D. António Taipa, Paços de Ferreira"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Paços de Ferreira",
+    "concelhoCodigo": "1309",
+    "codigoAE": "151117",
+    "nomeAE": "Agrupamento de Escolas de Paços de Ferreira Contrato de Autonomia"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Paços de Ferreira",
+    "concelhoCodigo": "1309",
+    "codigoAE": "151476",
+    "nomeAE": "Agrupamento de Escolas de Eiriz, Paços de Ferreira"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Paços de Ferreira",
+    "concelhoCodigo": "1309",
+    "codigoAE": "151488",
+    "nomeAE": "Agrupamento de Escolas de Frazão, Paços de Ferreira TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "10",
+    "concelho": "Paços de Ferreira",
+    "concelhoCodigo": "1309",
+    "codigoAE": "403374",
+    "nomeAE": "Escola Secundária de Paços de Ferreira"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Amarante",
+    "concelhoCodigo": "1301",
+    "codigoAE": "151099",
+    "nomeAE": "Agrupamento de Escolas Teixeira de Pascoaes, Amarante"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Amarante",
+    "concelhoCodigo": "1301",
+    "codigoAE": "152936",
+    "nomeAE": "Agrupamento de Escolas Amadeo de Souza Cardoso, Amarante"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Amarante",
+    "concelhoCodigo": "1301",
+    "codigoAE": "400828",
+    "nomeAE": "Escola Secundária de Amarante Contrato de Autonomia"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Baião",
+    "concelhoCodigo": "1302",
+    "codigoAE": "150198",
+    "nomeAE": "Agrupamento de Escolas do Sudeste de Baião TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Baião",
+    "concelhoCodigo": "1302",
+    "codigoAE": "150204",
+    "nomeAE": "Agrupamento de Escolas de Eiriz, Baião"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Baião",
+    "concelhoCodigo": "1302",
+    "codigoAE": "150216",
+    "nomeAE": "Agrupamento de Escolas de Vale de Ovil, Baião Contrato de Autonomia"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Marco de Canaveses",
+    "concelhoCodigo": "1307",
+    "codigoAE": "150733",
+    "nomeAE": "Agrupamento de Escolas de Sande, Marco de Canaveses TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Marco de Canaveses",
+    "concelhoCodigo": "1307",
+    "codigoAE": "150745",
+    "nomeAE": "Agrupamento de Escolas n.º 1 de Marco de Canaveses"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Marco de Canaveses",
+    "concelhoCodigo": "1307",
+    "codigoAE": "150824",
+    "nomeAE": "Agrupamento de Escolas de Alpendurada, Marco de Canaveses"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Marco de Canaveses",
+    "concelhoCodigo": "1307",
+    "codigoAE": "150836",
+    "nomeAE": "Agrupamento de Escolas Carmen Miranda, Marco de Canaveses TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Marco de Canaveses",
+    "concelhoCodigo": "1307",
+    "codigoAE": "404275",
+    "nomeAE": "Escola Profissional de Agricultura e Desenvolvimento Rural de Marco de Canaveses"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Penafiel",
+    "concelhoCodigo": "1311",
+    "codigoAE": "152535",
+    "nomeAE": "Agrupamento de Escolas de Paço de Sousa, Penafiel TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Penafiel",
+    "concelhoCodigo": "1311",
+    "codigoAE": "152547",
+    "nomeAE": "Agrupamento de Escolas D. António Ferreira Gomes, Penafiel"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Penafiel",
+    "concelhoCodigo": "1311",
+    "codigoAE": "152559",
+    "nomeAE": "Agrupamento de Escolas Joaquim de Araújo, Penafiel"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Penafiel",
+    "concelhoCodigo": "1311",
+    "codigoAE": "152560",
+    "nomeAE": "Agrupamento de Escolas de Penafiel Sudeste"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Penafiel",
+    "concelhoCodigo": "1311",
+    "codigoAE": "152572",
+    "nomeAE": "Agrupamento de Escolas de Pinheiro, Penafiel TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "11",
+    "concelho": "Penafiel",
+    "concelhoCodigo": "1311",
+    "codigoAE": "402473",
+    "nomeAE": "Escola Secundária de Penafiel"
+  },
+  {
+    "qzp": "12",
+    "concelho": "Boticas",
+    "concelhoCodigo": "1702",
+    "codigoAE": "152717",
+    "nomeAE": "Agrupamento de Escolas Gomes Monteiro, Boticas"
+  },
+  {
+    "qzp": "12",
+    "concelho": "Chaves",
+    "concelhoCodigo": "1703",
+    "codigoAE": "150230",
+    "nomeAE": "Agrupamento de Escolas Fernão de Magalhães, Chaves"
+  },
+  {
+    "qzp": "12",
+    "concelho": "Chaves",
+    "concelhoCodigo": "1703",
+    "codigoAE": "152729",
+    "nomeAE": "Agrupamento de Escolas Dr. Júlio Martins, Chaves"
+  },
+  {
+    "qzp": "12",
+    "concelho": "Chaves",
+    "concelhoCodigo": "1703",
+    "codigoAE": "152730",
+    "nomeAE": "Agrupamento de Escolas Dr. António Granjo, Chaves 24/03/2025 5"
+  },
+  {
+    "qzp": "12",
+    "concelho": "Montalegre",
+    "concelhoCodigo": "1706",
+    "codigoAE": "152766",
+    "nomeAE": "Agrupamento de Escolas Dr. Bento da Cruz, Montalegre"
+  },
+  {
+    "qzp": "13",
+    "concelho": "Alijó",
+    "concelhoCodigo": "1701",
+    "codigoAE": "152699",
+    "nomeAE": "Agrupamento de Escolas D.Sancho II, Alijó"
+  },
+  {
+    "qzp": "13",
+    "concelho": "Mirandela",
+    "concelhoCodigo": "0407",
+    "codigoAE": "152997",
+    "nomeAE": "Agrupamento de Escolas de Mirandela"
+  },
+  {
+    "qzp": "13",
+    "concelho": "Mirandela",
+    "concelhoCodigo": "0407",
+    "codigoAE": "404263",
+    "nomeAE": "Escola Profissional de Agricultura e Desenvolvimento Rural de Carvalhais, Mirandela"
+  },
+  {
+    "qzp": "13",
+    "concelho": "Murça",
+    "concelhoCodigo": "1707",
+    "codigoAE": "152778",
+    "nomeAE": "Agrupamento de Escolas de Murça TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "13",
+    "concelho": "Valpaços",
+    "concelhoCodigo": "1712",
+    "codigoAE": "152821",
+    "nomeAE": "Agrupamento de Escolas de Valpaços"
+  },
+  {
+    "qzp": "14",
+    "concelho": "Bragança",
+    "concelhoCodigo": "0402",
+    "codigoAE": "151816",
+    "nomeAE": "Agrupamento de Escolas Emídio Garcia, Bragança"
+  },
+  {
+    "qzp": "14",
+    "concelho": "Bragança",
+    "concelhoCodigo": "0402",
+    "codigoAE": "152973",
+    "nomeAE": "Agrupamento de Escolas Abade de Baçal, Bragança"
+  },
+  {
+    "qzp": "14",
+    "concelho": "Bragança",
+    "concelhoCodigo": "0402",
+    "codigoAE": "153059",
+    "nomeAE": "Agrupamento de Escolas Miguel Torga, Bragança"
+  },
+  {
+    "qzp": "14",
+    "concelho": "Macedo de Cavaleiros",
+    "concelhoCodigo": "0405",
+    "codigoAE": "150526",
+    "nomeAE": "Agrupamento de Escolas de Macedo de Cavaleiros"
+  },
+  {
+    "qzp": "14",
+    "concelho": "Vinhais",
+    "concelhoCodigo": "0412",
+    "codigoAE": "150680",
+    "nomeAE": "Agrupamento de Escolas D. Afonso III, Vinhais"
+  },
+  {
+    "qzp": "15",
+    "concelho": "Mondim de Basto",
+    "concelhoCodigo": "1705",
+    "codigoAE": "152754",
+    "nomeAE": "Agrupamento de Escolas de Mondim de Basto"
+  },
+  {
+    "qzp": "15",
+    "concelho": "Ribeira de Pena",
+    "concelhoCodigo": "1709",
+    "codigoAE": "152791",
+    "nomeAE": "Agrupamento de Escolas de Ribeira de Pena"
+  },
+  {
+    "qzp": "15",
+    "concelho": "Sabrosa",
+    "concelhoCodigo": "1710",
+    "codigoAE": "152808",
+    "nomeAE": "Agrupamento de Escolas Miguel Torga, Sabrosa"
+  },
+  {
+    "qzp": "15",
+    "concelho": "Vila Pouca de Aguiar",
+    "concelhoCodigo": "1713",
+    "codigoAE": "150666",
+    "nomeAE": "Agrupamento de Escolas de Vila Pouca de Aguiar - Sul"
+  },
+  {
+    "qzp": "15",
+    "concelho": "Vila Real",
+    "concelhoCodigo": "1714",
+    "codigoAE": "152857",
+    "nomeAE": "Agrupamento de Escolas Morgado de Mateus, Vila Real"
+  },
+  {
+    "qzp": "15",
+    "concelho": "Vila Real",
+    "concelhoCodigo": "1714",
+    "codigoAE": "152869",
+    "nomeAE": "Agrupamento de Escolas Diogo Cão, Vila Real TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "15",
+    "concelho": "Vila Real",
+    "concelhoCodigo": "1714",
+    "codigoAE": "401079",
+    "nomeAE": "Escola Secundária Camilo Castelo Branco, Vila Real Contrato de Autonomia"
+  },
+  {
+    "qzp": "15",
+    "concelho": "Vila Real",
+    "concelhoCodigo": "1714",
+    "codigoAE": "402874",
+    "nomeAE": "Escola Secundária São Pedro, Vila Real Contrato de Autonomia"
+  },
+  {
+    "qzp": "15",
+    "concelho": "Vila Real",
+    "concelhoCodigo": "1714",
+    "codigoAE": "807413",
+    "nomeAE": "Conservatório de Vila Real - Comendador Manuel Correia Botelho"
+  },
+  {
+    "qzp": "16",
+    "concelho": "Alfândega da Fé",
+    "concelhoCodigo": "0401",
+    "codigoAE": "150447",
+    "nomeAE": "Agrupamento de Escolas de Alfândega da Fé"
+  },
+  {
+    "qzp": "16",
+    "concelho": "Carrazeda de Ansiães",
+    "concelhoCodigo": "0403",
+    "codigoAE": "151828",
+    "nomeAE": "Agrupamento de Escolas de Carrazeda de Ansiães"
+  },
+  {
+    "qzp": "16",
+    "concelho": "Freixo de Espada à Cinta",
+    "concelhoCodigo": "0404",
+    "codigoAE": "151208",
+    "nomeAE": "Agrupamento de Escolas Guerra Junqueiro, Freixo de Espada à Cinta TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "16",
+    "concelho": "Torre de Moncorvo",
+    "concelhoCodigo": "0409",
+    "codigoAE": "150575",
+    "nomeAE": "Agrupamento de Escolas Dr. Ramiro Salgado, Torre de Moncorvo"
+  },
+  {
+    "qzp": "16",
+    "concelho": "Vila Flor",
+    "concelhoCodigo": "0410",
+    "codigoAE": "151841",
+    "nomeAE": "Agrupamento de Escolas de Vila Flor"
+  },
+  {
+    "qzp": "16",
+    "concelho": "Vila Nova de Foz Côa",
+    "concelhoCodigo": "0914",
+    "codigoAE": "151269",
+    "nomeAE": "Agrupamento de Escolas Tenente Coronel Adão Carrapatoso, Vila Nova de TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "17",
+    "concelho": "Miranda do Douro",
+    "concelhoCodigo": "0406",
+    "codigoAE": "150538",
+    "nomeAE": "Agrupamento de Escolas de Miranda do Douro"
+  },
+  {
+    "qzp": "17",
+    "concelho": "Mogadouro",
+    "concelhoCodigo": "0408",
+    "codigoAE": "151191",
+    "nomeAE": "Agrupamento de Escolas de Mogadouro TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "17",
+    "concelho": "Vimioso",
+    "concelhoCodigo": "0411",
+    "codigoAE": "150678",
+    "nomeAE": "Agrupamento de Escolas de Vimioso"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Cinfães",
+    "concelhoCodigo": "1804",
+    "codigoAE": "151865",
+    "nomeAE": "Agrupamento de Escolas General Serpa Pinto, Cinfães TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Cinfães",
+    "concelhoCodigo": "1804",
+    "codigoAE": "151877",
+    "nomeAE": "Agrupamento de Escolas de Souselo, Cinfães TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Cinfães",
+    "concelhoCodigo": "1804",
+    "codigoAE": "402564",
+    "nomeAE": "Escola Secundária Professor Doutor Flávio F. Pinto Resende, Cinfães TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Lamego",
+    "concelhoCodigo": "1805",
+    "codigoAE": "151889",
+    "nomeAE": "Agrupamento de Escolas Latino Coelho, Lamego"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Lamego",
+    "concelhoCodigo": "1805",
+    "codigoAE": "152948",
+    "nomeAE": "Agrupamento de Escolas da Sé, Lamego Contrato de Autonomia"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Mesão Frio",
+    "concelhoCodigo": "1704",
+    "codigoAE": "152742",
+    "nomeAE": "Agrupamento de Escolas Professor António da Natividade, Mesão Frio TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Peso da Régua",
+    "concelhoCodigo": "1708",
+    "codigoAE": "152780",
+    "nomeAE": "Agrupamento de Escolas Dr. João Araújo Correia, Peso da Régua TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Peso da Régua",
+    "concelhoCodigo": "1708",
+    "codigoAE": "404068",
+    "nomeAE": "Escola Profissional de Desenvolvimento Rural do Rodo, Peso da Régua"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Resende",
+    "concelhoCodigo": "1813",
+    "codigoAE": "151907",
+    "nomeAE": "Agrupamento de Escolas de Resende TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Santa Marta de Penaguião",
+    "concelhoCodigo": "1711",
+    "codigoAE": "152810",
+    "nomeAE": "Agrupamento de Escolas de Santa Marta de Penaguião"
+  },
+  {
+    "qzp": "18",
+    "concelho": "Tarouca",
+    "concelhoCodigo": "1820",
+    "codigoAE": "151944",
+    "nomeAE": "Agrupamento de Escolas Dr. José Leite de Vasconcelos, Tarouca TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "19",
+    "concelho": "Armamar",
+    "concelhoCodigo": "1801",
+    "codigoAE": "151853",
+    "nomeAE": "Agrupamento de Escolas Gomes Teixeira, Armamar Contrato de Autonomia"
+  },
+  {
+    "qzp": "19",
+    "concelho": "Moimenta da Beira",
+    "concelhoCodigo": "1807",
+    "codigoAE": "151890",
+    "nomeAE": "Agrupamento de Escolas de Moimenta da Beira Contrato de Autonomia"
+  },
+  {
+    "qzp": "19",
+    "concelho": "Penedono",
+    "concelhoCodigo": "1812",
+    "codigoAE": "150095",
+    "nomeAE": "Agrupamento de Escolas Álvaro Coutinho - o Magriço, Penedono"
+  },
+  {
+    "qzp": "19",
+    "concelho": "São João da Pesqueira",
+    "concelhoCodigo": "1815",
+    "codigoAE": "151919",
+    "nomeAE": "Agrupamento de Escolas de São João da Pesqueira 24/03/2025 6"
+  },
+  {
+    "qzp": "19",
+    "concelho": "Sernancelhe",
+    "concelhoCodigo": "1818",
+    "codigoAE": "151920",
+    "nomeAE": "Agrupamento de Escolas Padre João Rodrigues, Sernancelhe"
+  },
+  {
+    "qzp": "19",
+    "concelho": "Tabuaço",
+    "concelhoCodigo": "1819",
+    "codigoAE": "151932",
+    "nomeAE": "Agrupamento de Escolas Abel Botelho, Tabuaço"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Arouca",
+    "concelhoCodigo": "0104",
+    "codigoAE": "151622",
+    "nomeAE": "Agrupamento de Escolas de Escariz, Arouca"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Arouca",
+    "concelhoCodigo": "0104",
+    "codigoAE": "151634",
+    "nomeAE": "Agrupamento de Escolas de Arouca"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Castelo de Paiva",
+    "concelhoCodigo": "0106",
+    "codigoAE": "151312",
+    "nomeAE": "Agrupamento de Escolas de Castelo de Paiva"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Castelo de Paiva",
+    "concelhoCodigo": "0106",
+    "codigoAE": "151646",
+    "nomeAE": "Agrupamento de Escolas de Couto Mineiro do Pejão, Castelo de Paiva Contrato de Autonomia"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Espinho",
+    "concelhoCodigo": "0107",
+    "codigoAE": "151336",
+    "nomeAE": "Agrupamento de Escolas Dr. Manuel Gomes de Almeida, Espinho"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Espinho",
+    "concelhoCodigo": "0107",
+    "codigoAE": "151361",
+    "nomeAE": "Agrupamento de Escolas Dr. Manuel Laranjeira, Espinho"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Oliveira de Azeméis",
+    "concelhoCodigo": "0113",
+    "codigoAE": "151324",
+    "nomeAE": "Agrupamento de Escolas Dr. Ferreira da Silva, Oliveira de Azeméis Contrato de Autonomia"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Oliveira de Azeméis",
+    "concelhoCodigo": "0113",
+    "codigoAE": "151348",
+    "nomeAE": "Agrupamento de Escolas de Fajões, Oliveira de Azeméis TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Oliveira de Azeméis",
+    "concelhoCodigo": "0113",
+    "codigoAE": "151609",
+    "nomeAE": "Agrupamento de Escolas de Loureiro, Oliveira de Azeméis"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Oliveira de Azeméis",
+    "concelhoCodigo": "0113",
+    "codigoAE": "151658",
+    "nomeAE": "Agrupamento de Escolas Soares Basto, Oliveira de Azeméis"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Oliveira de Azeméis",
+    "concelhoCodigo": "0113",
+    "codigoAE": "153047",
+    "nomeAE": "Agrupamento de Escolas Ferreira de Castro, Oliveira de Azeméis Contrato de Autonomia"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Santa Maria da Feira",
+    "concelhoCodigo": "0109",
+    "codigoAE": "150356",
+    "nomeAE": "Agrupamento de Escolas António Alves de Amorim, Santa Maria da Feira Contrato de Autonomia"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Santa Maria da Feira",
+    "concelhoCodigo": "0109",
+    "codigoAE": "150551",
+    "nomeAE": "Agrupamento de Escolas de Arrifana, Santa Maria da Feira Contrato de Autonomia"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Santa Maria da Feira",
+    "concelhoCodigo": "0109",
+    "codigoAE": "150563",
+    "nomeAE": "Agrupamento de Escolas de Paços de Brandão, Santa Maria da Feira"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Santa Maria da Feira",
+    "concelhoCodigo": "0109",
+    "codigoAE": "151178",
+    "nomeAE": "Agrupamento de Escolas de Corga do Lobão, Santa Maria da Feira Contrato de Autonomia"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Santa Maria da Feira",
+    "concelhoCodigo": "0109",
+    "codigoAE": "151282",
+    "nomeAE": "Agrupamento de Escolas de Argoncilhe, Santa Maria da Feira Contrato de Autonomia"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Santa Maria da Feira",
+    "concelhoCodigo": "0109",
+    "codigoAE": "151294",
+    "nomeAE": "Agrupamento de Escolas de Canedo, Santa Maria da Feira"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Santa Maria da Feira",
+    "concelhoCodigo": "0109",
+    "codigoAE": "151350",
+    "nomeAE": "Agrupamento de Escolas Coelho e Castro, Santa Maria da Feira"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Santa Maria da Feira",
+    "concelhoCodigo": "0109",
+    "codigoAE": "151660",
+    "nomeAE": "Agrupamento de Escolas de Santa Maria da Feira"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Santa Maria da Feira",
+    "concelhoCodigo": "0109",
+    "codigoAE": "151671",
+    "nomeAE": "Agrupamento de Escolas Fernando Pessoa, Santa Maria da Feira"
+  },
+  {
+    "qzp": "20",
+    "concelho": "São João da Madeira",
+    "concelhoCodigo": "0116",
+    "codigoAE": "151683",
+    "nomeAE": "Agrupamento de Escolas João Silva Correia, S. João da Madeira Contrato de Autonomia"
+  },
+  {
+    "qzp": "20",
+    "concelho": "São João da Madeira",
+    "concelhoCodigo": "0116",
+    "codigoAE": "152900",
+    "nomeAE": "Agrupamento de Escolas Oliveira Júnior, São João da Madeira"
+  },
+  {
+    "qzp": "20",
+    "concelho": "São João da Madeira",
+    "concelhoCodigo": "0116",
+    "codigoAE": "153060",
+    "nomeAE": "Agrupamento de Escolas Dr. Serafim Leite, São João da Madeira"
+  },
+  {
+    "qzp": "20",
+    "concelho": "Vale de Cambra",
+    "concelhoCodigo": "0119",
+    "codigoAE": "151701",
+    "nomeAE": "Agrupamento de Escolas de Búzio, Vale de Cambra"
+  },
+  {
+    "qzp": "21",
+    "concelho": "Castro Daire",
+    "concelhoCodigo": "1803",
+    "codigoAE": "161718",
+    "nomeAE": "Agrupamento de Escolas de Castro Daire"
+  },
+  {
+    "qzp": "21",
+    "concelho": "Oliveira de Frades",
+    "concelhoCodigo": "1810",
+    "codigoAE": "161779",
+    "nomeAE": "Agrupamento de Escolas de Oliveira de Frades"
+  },
+  {
+    "qzp": "21",
+    "concelho": "São Pedro do Sul",
+    "concelhoCodigo": "1816",
+    "codigoAE": "160465",
+    "nomeAE": "Agrupamento de Escolas de Santa Cruz da Trapa, São Pedro do Sul TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "21",
+    "concelho": "São Pedro do Sul",
+    "concelhoCodigo": "1816",
+    "codigoAE": "161780",
+    "nomeAE": "Agrupamento de Escolas de São Pedro do Sul"
+  },
+  {
+    "qzp": "21",
+    "concelho": "Vouzela",
+    "concelhoCodigo": "1824",
+    "codigoAE": "160453",
+    "nomeAE": "Agrupamento de Escolas de Vouzela e Campia"
+  },
+  {
+    "qzp": "21",
+    "concelho": "Vouzela",
+    "concelhoCodigo": "1824",
+    "codigoAE": "160532",
+    "nomeAE": "Agrupamento de Escolas de Vouzela Contrato de Autonomia"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Mangualde",
+    "concelhoCodigo": "1806",
+    "codigoAE": "161895",
+    "nomeAE": "Agrupamento de Escolas de Mangualde"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Penalva do Castelo",
+    "concelhoCodigo": "1811",
+    "codigoAE": "160416",
+    "nomeAE": "Agrupamento de Escolas de Penalva do Castelo"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Sátão",
+    "concelhoCodigo": "1817",
+    "codigoAE": "161913",
+    "nomeAE": "Agrupamento de Escolas de Sátão"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Vila Nova de Paiva",
+    "concelhoCodigo": "1822",
+    "codigoAE": "161883",
+    "nomeAE": "Agrupamento de Escolas de Vila Nova de Paiva"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Viseu",
+    "concelhoCodigo": "1823",
+    "codigoAE": "160593",
+    "nomeAE": "Agrupamento de Escolas de Mundão, Viseu TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Viseu",
+    "concelhoCodigo": "1823",
+    "codigoAE": "160635",
+    "nomeAE": "Agrupamento de Escolas Viseu Norte"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Viseu",
+    "concelhoCodigo": "1823",
+    "codigoAE": "161858",
+    "nomeAE": "Agrupamento de Escolas Grão Vasco Contrato de Autonomia"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Viseu",
+    "concelhoCodigo": "1823",
+    "codigoAE": "161860",
+    "nomeAE": "Agrupamento de Escolas Infante D. Henrique, Repeses, Viseu Contrato de Autonomia"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Viseu",
+    "concelhoCodigo": "1823",
+    "codigoAE": "161871",
+    "nomeAE": "Agrupamento de Escolas de Viso, Viseu"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Viseu",
+    "concelhoCodigo": "1823",
+    "codigoAE": "400002",
+    "nomeAE": "Escola Secundária Alves Martins, Viseu"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Viseu",
+    "concelhoCodigo": "1823",
+    "codigoAE": "401626",
+    "nomeAE": "Escola Secundária Emídio Navarro, Viseu"
+  },
+  {
+    "qzp": "22",
+    "concelho": "Viseu",
+    "concelhoCodigo": "1823",
+    "codigoAE": "402977",
+    "nomeAE": "Escola Secundária Viriato, Abraveses, Viseu Contrato de Autonomia 24/03/2025 7"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Albergaria-a-Velha",
+    "concelhoCodigo": "0102",
+    "codigoAE": "160003",
+    "nomeAE": "Agrupamento de Escolas de Albergaria-a-Velha"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Albergaria-a-Velha",
+    "concelhoCodigo": "0102",
+    "codigoAE": "160027",
+    "nomeAE": "Agrupamento de Escolas de Branca, Albergaria-a-Velha Contrato de Autonomia"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Aveiro",
+    "concelhoCodigo": "0105",
+    "codigoAE": "160015",
+    "nomeAE": "Agrupamento de Escolas Dr. Mário Sacramento, Aveiro"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Aveiro",
+    "concelhoCodigo": "0105",
+    "codigoAE": "160039",
+    "nomeAE": "Agrupamento de Escolas Rio Novo do Príncipe, Cacia, Aveiro"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Aveiro",
+    "concelhoCodigo": "0105",
+    "codigoAE": "160120",
+    "nomeAE": "Agrupamento de Escolas de Oliveirinha, Aveiro Contrato de Autonomia"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Aveiro",
+    "concelhoCodigo": "0105",
+    "codigoAE": "160131",
+    "nomeAE": "Agrupamento de Escolas de Eixo, Aveiro"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Aveiro",
+    "concelhoCodigo": "0105",
+    "codigoAE": "160933",
+    "nomeAE": "Agrupamento de Escolas de Aveiro"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Aveiro",
+    "concelhoCodigo": "0105",
+    "codigoAE": "160945",
+    "nomeAE": "Agrupamento de Escolas de Esgueira, Aveiro"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Aveiro",
+    "concelhoCodigo": "0105",
+    "codigoAE": "160957",
+    "nomeAE": "Agrupamento de Escolas José Estêvão, Aveiro"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Aveiro",
+    "concelhoCodigo": "0105",
+    "codigoAE": "404196",
+    "nomeAE": "Escola Artística do Conservatório de Música Calouste Gulbenkian, Aveiro"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Estarreja",
+    "concelhoCodigo": "0108",
+    "codigoAE": "160155",
+    "nomeAE": "Agrupamento de Escolas de Estarreja"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Estarreja",
+    "concelhoCodigo": "0108",
+    "codigoAE": "160519",
+    "nomeAE": "Agrupamento de Escolas de Pardilhó, Estarreja TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Murtosa",
+    "concelhoCodigo": "0112",
+    "codigoAE": "161020",
+    "nomeAE": "Agrupamento de Escolas de Murtosa"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Ovar",
+    "concelhoCodigo": "0115",
+    "codigoAE": "161056",
+    "nomeAE": "Agrupamento de Escolas de Ovar"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Ovar",
+    "concelhoCodigo": "0115",
+    "codigoAE": "161949",
+    "nomeAE": "Agrupamento de Escolas de Esmoriz/Ovar Norte Contrato de Autonomia"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Ovar",
+    "concelhoCodigo": "0115",
+    "codigoAE": "161950",
+    "nomeAE": "Agrupamento de Escolas de Ovar Sul"
+  },
+  {
+    "qzp": "23",
+    "concelho": "Sever do Vouga",
+    "concelhoCodigo": "0117",
+    "codigoAE": "161068",
+    "nomeAE": "Agrupamento de Escolas de Sever do Vouga"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Águeda",
+    "concelhoCodigo": "0101",
+    "codigoAE": "160106",
+    "nomeAE": "Agrupamento de Escolas de Valongo do Vouga, Águeda TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Águeda",
+    "concelhoCodigo": "0101",
+    "codigoAE": "160908",
+    "nomeAE": "Agrupamento de Escolas de Águeda"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Águeda",
+    "concelhoCodigo": "0101",
+    "codigoAE": "161962",
+    "nomeAE": "Agrupamento de Escolas Águeda Sul Contrato de Autonomia"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Águeda",
+    "concelhoCodigo": "0101",
+    "codigoAE": "400695",
+    "nomeAE": "Escola Secundária Adolfo Portela, Águeda Contrato de Autonomia"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Anadia",
+    "concelhoCodigo": "0103",
+    "codigoAE": "160910",
+    "nomeAE": "Agrupamento de Escolas de Anadia"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Ílhavo",
+    "concelhoCodigo": "0110",
+    "codigoAE": "160970",
+    "nomeAE": "Agrupamento de Escolas de Gafanha da Encarnação, Ílhavo"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Ílhavo",
+    "concelhoCodigo": "0110",
+    "codigoAE": "160982",
+    "nomeAE": "Agrupamento de Escolas de Gafanha da Nazaré, Ílhavo"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Ílhavo",
+    "concelhoCodigo": "0110",
+    "codigoAE": "160994",
+    "nomeAE": "Agrupamento de Escolas de Ílhavo"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Mealhada",
+    "concelhoCodigo": "0111",
+    "codigoAE": "161007",
+    "nomeAE": "Agrupamento de Escolas de Mealhada"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Oliveira do Bairro",
+    "concelhoCodigo": "0114",
+    "codigoAE": "160568",
+    "nomeAE": "Agrupamento de Escolas de Oliveira do Bairro Contrato de Autonomia"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Vagos",
+    "concelhoCodigo": "0118",
+    "codigoAE": "161070",
+    "nomeAE": "Agrupamento de Escolas de Vagos"
+  },
+  {
+    "qzp": "24",
+    "concelho": "Vagos",
+    "concelhoCodigo": "0118",
+    "codigoAE": "404299",
+    "nomeAE": "Escola Profissional de Agricultura e Desenvolvimento Rural de Vagos Contrato de Autonomia"
+  },
+  {
+    "qzp": "25",
+    "concelho": "Carregal do Sal",
+    "concelhoCodigo": "1802",
+    "codigoAE": "161706",
+    "nomeAE": "Agrupamento de Escolas de Carregal do Sal"
+  },
+  {
+    "qzp": "25",
+    "concelho": "Mortágua",
+    "concelhoCodigo": "1808",
+    "codigoAE": "161743",
+    "nomeAE": "Agrupamento de Escolas de Mortágua"
+  },
+  {
+    "qzp": "25",
+    "concelho": "Nelas",
+    "concelhoCodigo": "1809",
+    "codigoAE": "161755",
+    "nomeAE": "Agrupamento de Escolas de Canas de Senhorim, Nelas"
+  },
+  {
+    "qzp": "25",
+    "concelho": "Nelas",
+    "concelhoCodigo": "1809",
+    "codigoAE": "161767",
+    "nomeAE": "Agrupamento de Escolas de Nelas"
+  },
+  {
+    "qzp": "25",
+    "concelho": "Santa Comba Dão",
+    "concelhoCodigo": "1814",
+    "codigoAE": "161792",
+    "nomeAE": "Agrupamento de Escolas de Santa Comba Dão"
+  },
+  {
+    "qzp": "25",
+    "concelho": "Tondela",
+    "concelhoCodigo": "1821",
+    "codigoAE": "161822",
+    "nomeAE": "Agrupamento de Escolas de Tondela Candido de Figueiredo"
+  },
+  {
+    "qzp": "25",
+    "concelho": "Tondela",
+    "concelhoCodigo": "1821",
+    "codigoAE": "161998",
+    "nomeAE": "Agrupamento de Escolas de Tondela Tomaz Ribeiro"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Cantanhede",
+    "concelhoCodigo": "0602",
+    "codigoAE": "160179",
+    "nomeAE": "Agrupamento de Escolas Gândara-Mar, Tocha, Cantanhede"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Cantanhede",
+    "concelhoCodigo": "0602",
+    "codigoAE": "160180",
+    "nomeAE": "Agrupamento de Escolas Lima-de-Faria, Cantanhede"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Cantanhede",
+    "concelhoCodigo": "0602",
+    "codigoAE": "161240",
+    "nomeAE": "Agrupamento de Escolas Marquês de Marialva, Cantanhede"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Figueira da Foz",
+    "concelhoCodigo": "0605",
+    "codigoAE": "161354",
+    "nomeAE": "Agrupamento de Escolas Figueira Norte, Figueira da Foz"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Figueira da Foz",
+    "concelhoCodigo": "0605",
+    "codigoAE": "161366",
+    "nomeAE": "Agrupamento de Escolas Figueira Mar, Figueira da Foz"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Figueira da Foz",
+    "concelhoCodigo": "0605",
+    "codigoAE": "161378",
+    "nomeAE": "Agrupamento de Escolas de Paião, Figueira da Foz"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Figueira da Foz",
+    "concelhoCodigo": "0605",
+    "codigoAE": "161380",
+    "nomeAE": "Agrupamento de Escolas da Zona Urbana da Figueira da Foz Contrato de Autonomia"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Figueira da Foz",
+    "concelhoCodigo": "0605",
+    "codigoAE": "401470",
+    "nomeAE": "Escola Secundária Dr. Joaquim de Carvalho, Figueira da Foz Contrato de Autonomia 24/03/2025 8"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Mira",
+    "concelhoCodigo": "0608",
+    "codigoAE": "160209",
+    "nomeAE": "Agrupamento de Escolas de Mira Contrato de Autonomia"
+  },
+  {
+    "qzp": "26",
+    "concelho": "Montemor-o-Velho",
+    "concelhoCodigo": "0610",
+    "codigoAE": "161433",
+    "nomeAE": "Agrupamento de Escolas de Montemor-o-Velho"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "161251",
+    "nomeAE": "Agrupamento de Escolas Coimbra Sul"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "161263",
+    "nomeAE": "Agrupamento de Escolas Rainha Santa Isabel, Pedrulha, Coimbra TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "161305",
+    "nomeAE": "Agrupamento de Escolas Eugénio de Castro, Coimbra"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "161329",
+    "nomeAE": "Agrupamento de Escolas Martim de Freitas, Coimbra Contrato de Autonomia"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "161974",
+    "nomeAE": "Agrupamento de Escolas Coimbra Centro"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "161986",
+    "nomeAE": "Agrupamento de Escolas Coimbra Oeste"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "400026",
+    "nomeAE": "Escola Secundária Avelar Brotero, Coimbra"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "400257",
+    "nomeAE": "Escola Secundária Infanta D. Maria, Coimbra"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "400294",
+    "nomeAE": "Escola Secundária José Falcão, Coimbra Contrato de Autonomia"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "401249",
+    "nomeAE": "Escola Secundária D. Dinis, Coimbra TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "402590",
+    "nomeAE": "Escola Básica e Secundária Quinta das Flores, Coimbra"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Coimbra",
+    "concelhoCodigo": "0603",
+    "codigoAE": "404202",
+    "nomeAE": "Escola Artística do Conservatório de Música de Coimbra"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Condeixa-a-Nova",
+    "concelhoCodigo": "0604",
+    "codigoAE": "161342",
+    "nomeAE": "Agrupamento de Escolas de Condeixa-a-Nova Contrato de Autonomia"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Lousã",
+    "concelhoCodigo": "0607",
+    "codigoAE": "161391",
+    "nomeAE": "Agrupamento de Escolas da Lousã"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Miranda do Corvo",
+    "concelhoCodigo": "0609",
+    "codigoAE": "161410",
+    "nomeAE": "Agrupamento de Escolas de Miranda do Corvo"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Penacova",
+    "concelhoCodigo": "0613",
+    "codigoAE": "161901",
+    "nomeAE": "Agrupamento de Escolas de Penacova"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Soure",
+    "concelhoCodigo": "0615",
+    "codigoAE": "161469",
+    "nomeAE": "Agrupamento de Escolas Martinho Árias, Soure"
+  },
+  {
+    "qzp": "27",
+    "concelho": "Vila Nova de Poiares",
+    "concelhoCodigo": "0617",
+    "codigoAE": "160520",
+    "nomeAE": "Agrupamento de Escolas de Vila Nova de Poiares"
+  },
+  {
+    "qzp": "28",
+    "concelho": "Arganil",
+    "concelhoCodigo": "0601",
+    "codigoAE": "161238",
+    "nomeAE": "Agrupamento de Escolas de Arganil"
+  },
+  {
+    "qzp": "28",
+    "concelho": "Góis",
+    "concelhoCodigo": "0606",
+    "codigoAE": "160192",
+    "nomeAE": "Agrupamento de Escolas de Góis"
+  },
+  {
+    "qzp": "28",
+    "concelho": "Oliveira do Hospital",
+    "concelhoCodigo": "0611",
+    "codigoAE": "162000",
+    "nomeAE": "Agrupamento de Escolas de Oliveira do Hospital"
+  },
+  {
+    "qzp": "28",
+    "concelho": "Pampilhosa da Serra",
+    "concelhoCodigo": "0612",
+    "codigoAE": "160507",
+    "nomeAE": "Agrupamento de Escolas Escalada, Pampilhosa da Serra TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "28",
+    "concelho": "Tábua",
+    "concelhoCodigo": "0616",
+    "codigoAE": "161482",
+    "nomeAE": "Agrupamento de Escolas de Tábua Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Batalha",
+    "concelhoCodigo": "1004",
+    "codigoAE": "160301",
+    "nomeAE": "Agrupamento de Escolas de Batalha Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "160313",
+    "nomeAE": "Agrupamento de Escolas Caranguejeira - Santa Catarina da Serra, Leiria"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "160325",
+    "nomeAE": "Agrupamento de Escolas de Colmeias, Leiria Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "160337",
+    "nomeAE": "Agrupamento de Escolas Henrique Sommer, Maceira, Leiria Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "160349",
+    "nomeAE": "Agrupamento de Escolas de Marrazes, Leiria TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "160556",
+    "nomeAE": "Agrupamento de Escolas Rainha Santa Isabel, Carreira, Leiria Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "161627",
+    "nomeAE": "Agrupamento de Escolas Dr. Correia Mateus, Leiria"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "161639",
+    "nomeAE": "Agrupamento de Escolas D. Dinis, Leiria Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "161640",
+    "nomeAE": "Agrupamento de Escolas Domingos Sequeira, Leiria"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "400208",
+    "nomeAE": "Escola Secundária Francisco Rodrigues Lobo, Leiria"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Leiria",
+    "concelhoCodigo": "1009",
+    "codigoAE": "400725",
+    "nomeAE": "Escola Secundária Afonso Lopes Vieira, Leiria"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Marinha Grande",
+    "concelhoCodigo": "1010",
+    "codigoAE": "160362",
+    "nomeAE": "Agrupamento de Escolas de Vieira de Leiria, Marinha Grande Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Marinha Grande",
+    "concelhoCodigo": "1010",
+    "codigoAE": "161676",
+    "nomeAE": "Agrupamento de Escolas Marinha Grande Nascente Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Marinha Grande",
+    "concelhoCodigo": "1010",
+    "codigoAE": "161688",
+    "nomeAE": "Agrupamento de Escolas Marinha Grande Poente TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Pombal",
+    "concelhoCodigo": "1015",
+    "codigoAE": "160374",
+    "nomeAE": "Agrupamento de Escolas Gualdim Pais, Pombal Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Pombal",
+    "concelhoCodigo": "1015",
+    "codigoAE": "161615",
+    "nomeAE": "Agrupamento de Escolas de Pombal Contrato de Autonomia"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Pombal",
+    "concelhoCodigo": "1015",
+    "codigoAE": "161690",
+    "nomeAE": "Agrupamento de Escolas de Guia, Pombal"
+  },
+  {
+    "qzp": "29",
+    "concelho": "Porto de Mós",
+    "concelhoCodigo": "1016",
+    "codigoAE": "160672",
+    "nomeAE": "Agrupamento de Escolas de Porto de Mós Contrato de Autonomia"
+  },
+  {
+    "qzp": "30",
+    "concelho": "Alvaiázere",
+    "concelhoCodigo": "1002",
+    "codigoAE": "161603",
+    "nomeAE": "Agrupamento de Escolas de Alvaiázere 24/03/2025 9"
+  },
+  {
+    "qzp": "30",
+    "concelho": "Ansião",
+    "concelhoCodigo": "1003",
+    "codigoAE": "160829",
+    "nomeAE": "Agrupamento de Escolas de Ansião"
+  },
+  {
+    "qzp": "30",
+    "concelho": "Castanheira de Pêra",
+    "concelhoCodigo": "1007",
+    "codigoAE": "160544",
+    "nomeAE": "Agrupamento de Escolas Dr. Bissaya Barreto, Castanheira de Pera"
+  },
+  {
+    "qzp": "30",
+    "concelho": "Figueiró dos Vinhos",
+    "concelhoCodigo": "1008",
+    "codigoAE": "160623",
+    "nomeAE": "Agrupamento de Escolas de Figueiró dos Vinhos"
+  },
+  {
+    "qzp": "30",
+    "concelho": "Pedrógão Grande",
+    "concelhoCodigo": "1013",
+    "codigoAE": "160659",
+    "nomeAE": "Agrupamento de Escolas de Pedrógão Grande"
+  },
+  {
+    "qzp": "30",
+    "concelho": "Penela",
+    "concelhoCodigo": "0614",
+    "codigoAE": "160234",
+    "nomeAE": "Agrupamento de Escolas Infante D. Pedro, Penela Contrato de Autonomia"
+  },
+  {
+    "qzp": "31",
+    "concelho": "Figueira de Castelo Rodrigo",
+    "concelhoCodigo": "0904",
+    "codigoAE": "160714",
+    "nomeAE": "Agrupamento de Escolas de Figueira de Castelo Rodrigo"
+  },
+  {
+    "qzp": "31",
+    "concelho": "Meda",
+    "concelhoCodigo": "0909",
+    "codigoAE": "160076",
+    "nomeAE": "Agrupamento de Escolas de Meda"
+  },
+  {
+    "qzp": "31",
+    "concelho": "Pinhel",
+    "concelhoCodigo": "0910",
+    "codigoAE": "161585",
+    "nomeAE": "Agrupamento de Escolas de Pinhel"
+  },
+  {
+    "qzp": "31",
+    "concelho": "Trancoso",
+    "concelhoCodigo": "0913",
+    "codigoAE": "161561",
+    "nomeAE": "Agrupamento de Escolas de Trancoso"
+  },
+  {
+    "qzp": "32",
+    "concelho": "Aguiar da Beira",
+    "concelhoCodigo": "0901",
+    "codigoAE": "160854",
+    "nomeAE": "Agrupamento de Escolas Padre José Augusto da Fonseca, Aguiar da Beira Contrato de Autonomia"
+  },
+  {
+    "qzp": "32",
+    "concelho": "Celorico da Beira",
+    "concelhoCodigo": "0903",
+    "codigoAE": "160866",
+    "nomeAE": "Agrupamento de Escolas de Celorico da Beira"
+  },
+  {
+    "qzp": "32",
+    "concelho": "Fornos de Algodres",
+    "concelhoCodigo": "0905",
+    "codigoAE": "160842",
+    "nomeAE": "Agrupamento de Escolas de Fornos de Algodres"
+  },
+  {
+    "qzp": "32",
+    "concelho": "Gouveia",
+    "concelhoCodigo": "0906",
+    "codigoAE": "161597",
+    "nomeAE": "Agrupamento de Escolas de Gouveia"
+  },
+  {
+    "qzp": "32",
+    "concelho": "Seia",
+    "concelhoCodigo": "0912",
+    "codigoAE": "161925",
+    "nomeAE": "Agrupamento de Escolas de Seia"
+  },
+  {
+    "qzp": "32",
+    "concelho": "Seia",
+    "concelhoCodigo": "0912",
+    "codigoAE": "161937",
+    "nomeAE": "Agrupamento de Escolas Dr. Guilherme Correia de Carvalho, Seia Contrato de Autonomia"
+  },
+  {
+    "qzp": "33",
+    "concelho": "Almeida",
+    "concelhoCodigo": "0902",
+    "codigoAE": "161500",
+    "nomeAE": "Agrupamento de Escolas de Almeida Contrato de Autonomia"
+  },
+  {
+    "qzp": "33",
+    "concelho": "Guarda",
+    "concelhoCodigo": "0907",
+    "codigoAE": "161512",
+    "nomeAE": "Agrupamento de Escolas Afonso de Albuquerque, Guarda"
+  },
+  {
+    "qzp": "33",
+    "concelho": "Guarda",
+    "concelhoCodigo": "0907",
+    "codigoAE": "162012",
+    "nomeAE": "Agrupamento de Escolas da Sé, Guarda"
+  },
+  {
+    "qzp": "33",
+    "concelho": "Sabugal",
+    "concelhoCodigo": "0911",
+    "codigoAE": "161548",
+    "nomeAE": "Agrupamento de Escolas de Sabugal"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Belmonte",
+    "concelhoCodigo": "0501",
+    "codigoAE": "161100",
+    "nomeAE": "Agrupamento de Escolas Pedro Álvares Cabral, Belmonte"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Covilhã",
+    "concelhoCodigo": "0503",
+    "codigoAE": "160702",
+    "nomeAE": "Agrupamento de Escolas A Lã e a Neve, Covilhã Contrato de Autonomia"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Covilhã",
+    "concelhoCodigo": "0503",
+    "codigoAE": "161159",
+    "nomeAE": "Agrupamento de Escolas Pêro da Covilhã, Covilhã Contrato de Autonomia"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Covilhã",
+    "concelhoCodigo": "0503",
+    "codigoAE": "161184",
+    "nomeAE": "Agrupamento de Escolas de Teixoso, Covilhã Contrato de Autonomia"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Covilhã",
+    "concelhoCodigo": "0503",
+    "codigoAE": "162036",
+    "nomeAE": "Agrupamento de Escolas Frei Heitor Pinto, Covilhã"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Covilhã",
+    "concelhoCodigo": "0503",
+    "codigoAE": "401092",
+    "nomeAE": "Escola Secundária Campos de Melo, Covilhã Contrato de Autonomia"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Covilhã",
+    "concelhoCodigo": "0503",
+    "codigoAE": "404020",
+    "nomeAE": "Escola Profissional Agrícola Quinta da Lageosa, Aldeia do Souto, Covilhã"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Covilhã",
+    "concelhoCodigo": "0503",
+    "codigoAE": "404676",
+    "nomeAE": "Escola Secundária Quinta das Palmeiras, Covilhã Contrato de Autonomia"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Fundão",
+    "concelhoCodigo": "0504",
+    "codigoAE": "161123",
+    "nomeAE": "Agrupamento de Escolas Gardunha e Xisto, Fundão Contrato de Autonomia"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Fundão",
+    "concelhoCodigo": "0504",
+    "codigoAE": "161196",
+    "nomeAE": "Agrupamento de Escolas do Fundão"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Manteigas",
+    "concelhoCodigo": "0908",
+    "codigoAE": "160258",
+    "nomeAE": "Agrupamento de Escolas de Manteigas Contrato de Autonomia"
+  },
+  {
+    "qzp": "34",
+    "concelho": "Penamacor",
+    "concelhoCodigo": "0507",
+    "codigoAE": "161214",
+    "nomeAE": "Agrupamento de Escolas Ribeiro Sanches, Penamacor"
+  },
+  {
+    "qzp": "35",
+    "concelho": "Oleiros",
+    "concelhoCodigo": "0506",
+    "codigoAE": "160489",
+    "nomeAE": "Agrupamento de Escolas Padre António de Andrade, Oleiros"
+  },
+  {
+    "qzp": "35",
+    "concelho": "Proença-a-Nova",
+    "concelhoCodigo": "0508",
+    "codigoAE": "160799",
+    "nomeAE": "Agrupamento de Escolas de Proença-a-Nova"
+  },
+  {
+    "qzp": "35",
+    "concelho": "Sertã",
+    "concelhoCodigo": "0509",
+    "codigoAE": "161226",
+    "nomeAE": "Agrupamento de Escolas de Sertã"
+  },
+  {
+    "qzp": "35",
+    "concelho": "Vila de Rei",
+    "concelhoCodigo": "0510",
+    "codigoAE": "160581",
+    "nomeAE": "Agrupamento de Escolas de Vila de Rei"
+  },
+  {
+    "qzp": "36",
+    "concelho": "Castelo Branco",
+    "concelhoCodigo": "0502",
+    "codigoAE": "160763",
+    "nomeAE": "Agrupamento de Escolas José Sanches e S. Vicente da Beira Contrato de Autonomia"
+  },
+  {
+    "qzp": "36",
+    "concelho": "Castelo Branco",
+    "concelhoCodigo": "0502",
+    "codigoAE": "161111",
+    "nomeAE": "Agrupamento de Escolas Afonso de Paiva, Castelo Branco"
+  },
+  {
+    "qzp": "36",
+    "concelho": "Castelo Branco",
+    "concelhoCodigo": "0502",
+    "codigoAE": "161135",
+    "nomeAE": "Agrupamento de Escolas Amato Lusitano, Castelo Branco"
+  },
+  {
+    "qzp": "36",
+    "concelho": "Castelo Branco",
+    "concelhoCodigo": "0502",
+    "codigoAE": "162024",
+    "nomeAE": "Agrupamento de Escolas Nuno Álvares, Castelo Branco TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "36",
+    "concelho": "Idanha-a-Nova",
+    "concelhoCodigo": "0505",
+    "codigoAE": "160805",
+    "nomeAE": "Agrupamento de Escolas José Silvestre Ribeiro, Idanha-a-Nova TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "36",
+    "concelho": "Vila Velha de Ródão",
+    "concelhoCodigo": "0511",
+    "codigoAE": "160787",
+    "nomeAE": "Agrupamento de Escolas de Vila Velha de Ródão"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Alcanena",
+    "concelhoCodigo": "1402",
+    "codigoAE": "172390",
+    "nomeAE": "Agrupamento de Escolas de Alcanena"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Entroncamento",
+    "concelhoCodigo": "1410",
+    "codigoAE": "170586",
+    "nomeAE": "Agrupamento de Escolas Cidade do Entroncamento Contrato de Autonomia"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Ferreira do Zêzere",
+    "concelhoCodigo": "1411",
+    "codigoAE": "170525",
+    "nomeAE": "Agrupamento de Escolas de Ferreira do Zêzere 24/03/2025 10"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Ourém",
+    "concelhoCodigo": "1421",
+    "codigoAE": "120960",
+    "nomeAE": "Agrupamento de Escolas de Ourém"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Ourém",
+    "concelhoCodigo": "1421",
+    "codigoAE": "170021",
+    "nomeAE": "Agrupamento de Escolas do Cónego Dr. Manuel Lopes Perdigão, Ourém Contrato de Autonomia"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Ourém",
+    "concelhoCodigo": "1421",
+    "codigoAE": "170057",
+    "nomeAE": "Agrupamento de Escolas Conde de Ourém, Ourém"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Tomar",
+    "concelhoCodigo": "1418",
+    "codigoAE": "171207",
+    "nomeAE": "Agrupamento de Escolas Nuno de Santa Maria, Tomar Contrato de Autonomia"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Tomar",
+    "concelhoCodigo": "1418",
+    "codigoAE": "172479",
+    "nomeAE": "Agrupamento de Escolas Templários, Tomar"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Torres Novas",
+    "concelhoCodigo": "1419",
+    "codigoAE": "170434",
+    "nomeAE": "Agrupamento de Escolas Gil Paes, Torres Novas"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Torres Novas",
+    "concelhoCodigo": "1419",
+    "codigoAE": "172340",
+    "nomeAE": "Agrupamento de Escolas Artur Gonçalves, Torres Novas"
+  },
+  {
+    "qzp": "37",
+    "concelho": "Vila Nova da Barquinha",
+    "concelhoCodigo": "1420",
+    "codigoAE": "170392",
+    "nomeAE": "Agrupamento de Escolas de Vila Nova da Barquinha"
+  },
+  {
+    "qzp": "38",
+    "concelho": "Abrantes",
+    "concelhoCodigo": "1401",
+    "codigoAE": "121502",
+    "nomeAE": "Agrupamento de Escolas Nº 2 de Abrantes"
+  },
+  {
+    "qzp": "38",
+    "concelho": "Abrantes",
+    "concelhoCodigo": "1401",
+    "codigoAE": "170320",
+    "nomeAE": "Agrupamento de Escolas Nº 1 de Abrantes"
+  },
+  {
+    "qzp": "38",
+    "concelho": "Abrantes",
+    "concelhoCodigo": "1401",
+    "codigoAE": "404329",
+    "nomeAE": "Escola Profissional de Desenvolvimento Rural de Abrantes, Mouriscas, Abrantes"
+  },
+  {
+    "qzp": "38",
+    "concelho": "Constância",
+    "concelhoCodigo": "1408",
+    "codigoAE": "170124",
+    "nomeAE": "Agrupamento de Escolas de Constância Contrato de Autonomia"
+  },
+  {
+    "qzp": "38",
+    "concelho": "Mação",
+    "concelhoCodigo": "1413",
+    "codigoAE": "160660",
+    "nomeAE": "Agrupamento de Escolas Verde Horizonte, Mação"
+  },
+  {
+    "qzp": "38",
+    "concelho": "Sardoal",
+    "concelhoCodigo": "1417",
+    "codigoAE": "170069",
+    "nomeAE": "Agrupamento de Escolas do Sardoal"
+  },
+  {
+    "qzp": "39",
+    "concelho": "Alcobaça",
+    "concelhoCodigo": "1001",
+    "codigoAE": "170082",
+    "nomeAE": "Agrupamento de Escolas da Benedita, Alcobaça"
+  },
+  {
+    "qzp": "39",
+    "concelho": "Alcobaça",
+    "concelhoCodigo": "1001",
+    "codigoAE": "171438",
+    "nomeAE": "Agrupamento de Escolas São Martinho do Porto, Alcobaça Contrato de Autonomia"
+  },
+  {
+    "qzp": "39",
+    "concelho": "Alcobaça",
+    "concelhoCodigo": "1001",
+    "codigoAE": "172480",
+    "nomeAE": "Agrupamento de Escolas de Cister de Alcobaça, Alcobaça"
+  },
+  {
+    "qzp": "39",
+    "concelho": "Alcobaça",
+    "concelhoCodigo": "1001",
+    "codigoAE": "404317",
+    "nomeAE": "Escola Profissional de Agricultura e Desenvolvimento Rural de Cister, Alcobaça"
+  },
+  {
+    "qzp": "39",
+    "concelho": "Caldas da Rainha",
+    "concelhoCodigo": "1006",
+    "codigoAE": "170239",
+    "nomeAE": "Agrupamento de Escolas Rafael Bordalo Pinheiro, Caldas da Rainha"
+  },
+  {
+    "qzp": "39",
+    "concelho": "Caldas da Rainha",
+    "concelhoCodigo": "1006",
+    "codigoAE": "171967",
+    "nomeAE": "Agrupamento de Escolas D. João II, Caldas da Rainha"
+  },
+  {
+    "qzp": "39",
+    "concelho": "Caldas da Rainha",
+    "concelhoCodigo": "1006",
+    "codigoAE": "172170",
+    "nomeAE": "Agrupamento de Escolas Raul Proença, Caldas da Rainha Contrato de Autonomia"
+  },
+  {
+    "qzp": "39",
+    "concelho": "Nazaré",
+    "concelhoCodigo": "1011",
+    "codigoAE": "170306",
+    "nomeAE": "Agrupamento de Escolas da Nazaré"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Alenquer",
+    "concelhoCodigo": "1101",
+    "codigoAE": "120996",
+    "nomeAE": "Agrupamento de Escolas Visconde de Chanceleiros, Alenquer"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Alenquer",
+    "concelhoCodigo": "1101",
+    "codigoAE": "170136",
+    "nomeAE": "Agrupamento de Escolas do Carregado, Alenquer"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Alenquer",
+    "concelhoCodigo": "1101",
+    "codigoAE": "170598",
+    "nomeAE": "Agrupamento de Escolas Damião de Goes, Alenquer"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Alenquer",
+    "concelhoCodigo": "1101",
+    "codigoAE": "170604",
+    "nomeAE": "Agrupamento de Escolas da Abrigada, Alenquer"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Azambuja",
+    "concelhoCodigo": "1103",
+    "codigoAE": "170537",
+    "nomeAE": "Agrupamento de Escolas da Azambuja"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Azambuja",
+    "concelhoCodigo": "1103",
+    "codigoAE": "170574",
+    "nomeAE": "Agrupamento de Escolas Vale Aveiras, Azambuja"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Azambuja",
+    "concelhoCodigo": "1103",
+    "codigoAE": "170641",
+    "nomeAE": "Agrupamento de Escolas do Alto da Azambuja"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Cartaxo",
+    "concelhoCodigo": "1406",
+    "codigoAE": "170379",
+    "nomeAE": "Agrupamento de Escolas D. Sancho I - Pontével, Cartaxo"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Cartaxo",
+    "concelhoCodigo": "1406",
+    "codigoAE": "171323",
+    "nomeAE": "Agrupamento de Escolas Marcelino Mesquita do Cartaxo Contrato de Autonomia"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Rio Maior",
+    "concelhoCodigo": "1414",
+    "codigoAE": "170501",
+    "nomeAE": "Agrupamento de Escolas Marinhas do Sal, Rio Maior Contrato de Autonomia"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Rio Maior",
+    "concelhoCodigo": "1414",
+    "codigoAE": "170513",
+    "nomeAE": "Agrupamento de Escolas Fernando Casimiro Pereira da Silva, Rio Maior"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Rio Maior",
+    "concelhoCodigo": "1414",
+    "codigoAE": "401419",
+    "nomeAE": "Escola Secundária Dr. Augusto César da Silva Ferreira, Rio Maior"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Santarém",
+    "concelhoCodigo": "1416",
+    "codigoAE": "170409",
+    "nomeAE": "Agrupamento de Escolas D. Afonso Henriques, Santarém"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Santarém",
+    "concelhoCodigo": "1416",
+    "codigoAE": "170550",
+    "nomeAE": "Agrupamento de Escolas Alexandre Herculano, Santarém"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Santarém",
+    "concelhoCodigo": "1416",
+    "codigoAE": "170562",
+    "nomeAE": "Agrupamento de Escolas Sá da Bandeira, Santarém"
+  },
+  {
+    "qzp": "40",
+    "concelho": "Santarém",
+    "concelhoCodigo": "1416",
+    "codigoAE": "170653",
+    "nomeAE": "Agrupamento de Escolas Dr. Ginestal Machado, Santarém"
+  },
+  {
+    "qzp": "41",
+    "concelho": "Bombarral",
+    "concelhoCodigo": "1005",
+    "codigoAE": "171347",
+    "nomeAE": "Agrupamento de Escolas de Fernão do Pó, Bombarral"
+  },
+  {
+    "qzp": "41",
+    "concelho": "Cadaval",
+    "concelhoCodigo": "1104",
+    "codigoAE": "170549",
+    "nomeAE": "Agrupamento de Escolas do Cadaval"
+  },
+  {
+    "qzp": "41",
+    "concelho": "Lourinhã",
+    "concelhoCodigo": "1108",
+    "codigoAE": "121381",
+    "nomeAE": "Agrupamento de Escolas D. Lourenço Vicente, Lourinhã"
+  },
+  {
+    "qzp": "41",
+    "concelho": "Lourinhã",
+    "concelhoCodigo": "1108",
+    "codigoAE": "121393",
+    "nomeAE": "Agrupamento de Escolas da Lourinhã"
+  },
+  {
+    "qzp": "41",
+    "concelho": "Óbidos",
+    "concelhoCodigo": "1012",
+    "codigoAE": "171335",
+    "nomeAE": "Agrupamento de Escolas Josefa de Óbidos, Óbidos"
+  },
+  {
+    "qzp": "41",
+    "concelho": "Peniche",
+    "concelhoCodigo": "1014",
+    "codigoAE": "120297",
+    "nomeAE": "Agrupamento de Escolas D. Luís de Ataíde, Peniche TEIP - Território Educativo de Intervenção Prioritária 24/03/2025 11"
+  },
+  {
+    "qzp": "41",
+    "concelho": "Peniche",
+    "concelhoCodigo": "1014",
+    "codigoAE": "170008",
+    "nomeAE": "Agrupamento de Escolas de Atouguia da Baleia, Peniche Contrato de Autonomia"
+  },
+  {
+    "qzp": "41",
+    "concelho": "Peniche",
+    "concelhoCodigo": "1014",
+    "codigoAE": "172285",
+    "nomeAE": "Agrupamento de Escolas de Peniche TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "41",
+    "concelho": "Peniche",
+    "concelhoCodigo": "1014",
+    "codigoAE": "402497",
+    "nomeAE": "Escola Secundária de Peniche"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Arruda dos Vinhos",
+    "concelhoCodigo": "1102",
+    "codigoAE": "121009",
+    "nomeAE": "Agrupamento de Escolas de Arruda dos Vinhos"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Mafra",
+    "concelhoCodigo": "1109",
+    "codigoAE": "121423",
+    "nomeAE": "Agrupamento de Escolas de Venda do Pinheiro, Mafra Contrato de Autonomia"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Mafra",
+    "concelhoCodigo": "1109",
+    "codigoAE": "170112",
+    "nomeAE": "Agrupamento de Escolas da Ericeira, Mafra Contrato de Autonomia"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Mafra",
+    "concelhoCodigo": "1109",
+    "codigoAE": "171499",
+    "nomeAE": "Agrupamento de Escolas Professor Armando Lucena, Mafra Contrato de Autonomia"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Mafra",
+    "concelhoCodigo": "1109",
+    "codigoAE": "171505",
+    "nomeAE": "Agrupamento de Escolas de Mafra Contrato de Autonomia"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Mafra",
+    "concelhoCodigo": "1109",
+    "codigoAE": "400580",
+    "nomeAE": "Escola Secundária José Saramago, Mafra Contrato de Autonomia"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Sobral de Monte Agraço",
+    "concelhoCodigo": "1112",
+    "codigoAE": "172364",
+    "nomeAE": "Agrupamento de Escolas Joaquim Inácio da Cruz Sobral, Sobral do Monte Agraço"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Torres Vedras",
+    "concelhoCodigo": "1113",
+    "codigoAE": "170616",
+    "nomeAE": "Agrupamento de Escolas de São Gonçalo, Torres Vedras"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Torres Vedras",
+    "concelhoCodigo": "1113",
+    "codigoAE": "170963",
+    "nomeAE": "Agrupamento de Escolas Henriques Nogueira, Torres Vedras"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Torres Vedras",
+    "concelhoCodigo": "1113",
+    "codigoAE": "170987",
+    "nomeAE": "Agrupamento de Escolas Padre Vítor Melícias, Torres Vedras"
+  },
+  {
+    "qzp": "42",
+    "concelho": "Torres Vedras",
+    "concelhoCodigo": "1113",
+    "codigoAE": "171517",
+    "nomeAE": "Agrupamento de Escolas Madeira Torres, Torres Vedras"
+  },
+  {
+    "qzp": "43",
+    "concelho": "Almeirim",
+    "concelhoCodigo": "1403",
+    "codigoAE": "170240",
+    "nomeAE": "Agrupamento de Escolas de Fazendas de Almeirim, Almeirim"
+  },
+  {
+    "qzp": "43",
+    "concelho": "Almeirim",
+    "concelhoCodigo": "1403",
+    "codigoAE": "171293",
+    "nomeAE": "Agrupamento de Escolas de Almeirim"
+  },
+  {
+    "qzp": "43",
+    "concelho": "Alpiarça",
+    "concelhoCodigo": "1404",
+    "codigoAE": "170630",
+    "nomeAE": "Agrupamento de Escolas José Relvas, Alpiarça"
+  },
+  {
+    "qzp": "43",
+    "concelho": "Chamusca",
+    "concelhoCodigo": "1407",
+    "codigoAE": "170471",
+    "nomeAE": "Agrupamento de Escolas da Chamusca"
+  },
+  {
+    "qzp": "43",
+    "concelho": "Golegã",
+    "concelhoCodigo": "1412",
+    "codigoAE": "170460",
+    "nomeAE": "Agrupamento de Escolas da Golegã, Azinhaga e Pombalinho, Golegã"
+  },
+  {
+    "qzp": "44",
+    "concelho": "Benavente",
+    "concelhoCodigo": "1405",
+    "codigoAE": "170331",
+    "nomeAE": "Agrupamento de Escolas de Samora Correia, Benavente"
+  },
+  {
+    "qzp": "44",
+    "concelho": "Benavente",
+    "concelhoCodigo": "1405",
+    "codigoAE": "170458",
+    "nomeAE": "Agrupamento de Escolas de Benavente"
+  },
+  {
+    "qzp": "44",
+    "concelho": "Coruche",
+    "concelhoCodigo": "1409",
+    "codigoAE": "170367",
+    "nomeAE": "Agrupamento de Escolas de Coruche TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "44",
+    "concelho": "Salvaterra de Magos",
+    "concelhoCodigo": "1415",
+    "codigoAE": "170355",
+    "nomeAE": "Agrupamento de Escolas de Marinhais, Salvaterra de Magos Contrato de Autonomia"
+  },
+  {
+    "qzp": "44",
+    "concelho": "Salvaterra de Magos",
+    "concelhoCodigo": "1415",
+    "codigoAE": "170665",
+    "nomeAE": "Agrupamento de Escolas de Salvaterra de Magos"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "170161",
+    "nomeAE": "Agrupamento de Escolas de Alfornelos, Amadora Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "170264",
+    "nomeAE": "Agrupamento de Escolas Almeida Garrett, Amadora Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "170719",
+    "nomeAE": "Agrupamento de Escolas José Cardoso Pires, Amadora TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "170744",
+    "nomeAE": "Agrupamento de Escolas Pioneiros da Aviação Portuguesa, Amadora"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "171232",
+    "nomeAE": "Agrupamento de Escolas Cardoso Lopes, Amadora TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "171244",
+    "nomeAE": "Agrupamento de Escolas Miguel Torga, Amadora TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "171451",
+    "nomeAE": "Agrupamento de Escolas Amadora Oeste, Amadora TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "171463",
+    "nomeAE": "Agrupamento de Escolas Fernando Namora, Amadora"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "171669",
+    "nomeAE": "Agrupamento de Escolas da Damaia, Amadora TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "172182",
+    "nomeAE": "Agrupamento de Escolas Dr. Azevedo Neves, Amadora TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "172303",
+    "nomeAE": "Agrupamento de Escolas Mães D´Agua, Amadora TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Amadora",
+    "concelhoCodigo": "1115",
+    "codigoAE": "172431",
+    "nomeAE": "Agrupamento de Escolas D. João V, Amadora TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "170677",
+    "nomeAE": "Agrupamento de Escolas Ibn Mucana, Cascais"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "170689",
+    "nomeAE": "Agrupamento de Escolas de São João do Estoril, Cascais"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "170690",
+    "nomeAE": "Agrupamento de Escolas da Alapraia, Cascais"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "170707",
+    "nomeAE": "Agrupamento de Escolas de Parede, Cascais"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "170732",
+    "nomeAE": "Agrupamento de Escolas de Cascais"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "170756",
+    "nomeAE": "Agrupamento de Escolas de Alcabideche, Cascais"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "170768",
+    "nomeAE": "Agrupamento de Escolas Matilde Rosa Araújo, Cascais Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "172250",
+    "nomeAE": "Agrupamento de Escolas de Carcavelos, Cascais 24/03/2025 12"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "172261",
+    "nomeAE": "Agrupamento de Escolas Frei Gonçalo de Azevedo, Cascais Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "172273",
+    "nomeAE": "Agrupamento de Escolas de Alvide, Cascais"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Cascais",
+    "concelhoCodigo": "1105",
+    "codigoAE": "172443",
+    "nomeAE": "Agrupamento de Escolas da Cidadela, Cascais"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "170150",
+    "nomeAE": "Agrupamento de Escolas Padre Bartolomeu de Gusmão, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171098",
+    "nomeAE": "Agrupamento de Escolas Vergílio Ferreira, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171153",
+    "nomeAE": "Agrupamento de Escolas do Restelo, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171165",
+    "nomeAE": "Agrupamento de Escolas Patrício Prazeres, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171177",
+    "nomeAE": "Agrupamento de Escolas Professor Lindley Cintra - Lumiar, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171189",
+    "nomeAE": "Agrupamento de Escolas das Olaias, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171190",
+    "nomeAE": "Agrupamento de Escolas Fernando Pessoa, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171360",
+    "nomeAE": "Agrupamento de Escolas Marquesa de Alorna, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171372",
+    "nomeAE": "Agrupamento de Escolas Francisco de Arruda, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171384",
+    "nomeAE": "Agrupamento de Escolas D. Dinis, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171396",
+    "nomeAE": "Agrupamento de Escolas Luís António Verney, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171402",
+    "nomeAE": "Agrupamento de Escolas do Bairro Padre Cruz, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171682",
+    "nomeAE": "Agrupamento de Escolas Piscinas - Olivais, Lisboa TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171700",
+    "nomeAE": "Agrupamento de Escolas das Laranjeiras, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171712",
+    "nomeAE": "Agrupamento de Escolas de Santa Maria dos Olivais, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171724",
+    "nomeAE": "Agrupamento de Escolas Manuel da Maia, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171736",
+    "nomeAE": "Agrupamento de Escolas do Alto do Lumiar, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171748",
+    "nomeAE": "Agrupamento de Escolas Rainha D. Leonor, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171750",
+    "nomeAE": "Agrupamento de Escolas Luís de Camões, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171761",
+    "nomeAE": "Agrupamento de Escolas de Alvalade, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171773",
+    "nomeAE": "Agrupamento de Escolas de Benfica, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171785",
+    "nomeAE": "Agrupamento de Escolas Quinta de Marrocos, Lisboa Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171797",
+    "nomeAE": "Agrupamento de Escolas Pintor Almada Negreiros, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171943",
+    "nomeAE": "Agrupamento de Escolas Passos Manuel, Lisboa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "171955",
+    "nomeAE": "Agrupamento de Escolas Nuno Gonçalves, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "172315",
+    "nomeAE": "Agrupamento de Escolas D. Filipa de Lencastre, Lisboa Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "172339",
+    "nomeAE": "Agrupamento de Escolas Gil Vicente, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "172420",
+    "nomeAE": "Agrupamento de Escolas Eça de Queirós, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "400348",
+    "nomeAE": "Escola Secundária Maria Amália Vaz de Carvalho, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "401109",
+    "nomeAE": "Escola Secundária Camões, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "401778",
+    "nomeAE": "Escola Secundária Fonseca Benevides, Lisboa Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "402163",
+    "nomeAE": "Escola Secundária Marquês de Pombal, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "404172",
+    "nomeAE": "Escola Artística António Arroio, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "404226",
+    "nomeAE": "Escola Artística do Instituto Gregoriano de Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "404238",
+    "nomeAE": "Escola Artística de Dança do Conservatório Nacional, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "404240",
+    "nomeAE": "Escola Artística de Música do Conservatório Nacional, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "404354",
+    "nomeAE": "Escola Profissional de Ciências Geográficas, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "404408",
+    "nomeAE": "Escola Secundária Rainha Dona Amélia, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Lisboa",
+    "concelhoCodigo": "1106",
+    "codigoAE": "404652",
+    "nomeAE": "Escola Secundária Pedro Nunes, Lisboa"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "171116",
+    "nomeAE": "Agrupamento de Escolas de Camarate - D. Nuno Álvares Pereira, Loures TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "171128",
+    "nomeAE": "Agrupamento de Escolas 4 de Outubro, Loures 24/03/2025 13"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "171130",
+    "nomeAE": "Agrupamento de Escolas de Catujal - Unhos, Loures"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "171141",
+    "nomeAE": "Agrupamento de Escolas de Portela e Moscavide, Loures"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "172029",
+    "nomeAE": "Agrupamento de Escolas Luís de Sttau Monteiro, Loures"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "172030",
+    "nomeAE": "Agrupamento de Escolas João Villaret, Loures"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "172042",
+    "nomeAE": "Agrupamento de Escolas General Humberto Delgado, Loures Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "172054",
+    "nomeAE": "Agrupamento de Escolas José Afonso, Loures"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "172066",
+    "nomeAE": "Agrupamento de Escolas da Bobadela, Loures"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "172078",
+    "nomeAE": "Agrupamento de Escolas de Santa Iria de Azóia, Loures"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "172080",
+    "nomeAE": "Agrupamento de Escolas de São João da Talha, Loures"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "172091",
+    "nomeAE": "Agrupamento de Escolas Eduardo Gageiro, Loures TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "172108",
+    "nomeAE": "Agrupamento de Escolas Maria Keil, Loures TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Loures",
+    "concelhoCodigo": "1107",
+    "codigoAE": "403490",
+    "nomeAE": "Escola Secundária de Camarate, Loures TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "171074",
+    "nomeAE": "Agrupamento de Escolas Braamcamp Freire"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "171086",
+    "nomeAE": "Agrupamento de Escolas Pedro Alexandrino - Póvoa de Santo Adrião, Odivelas"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "171840",
+    "nomeAE": "Agrupamento de Escolas Vasco Santana, Odivelas"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "171852",
+    "nomeAE": "Agrupamento de Escolas de Moinhos da Arroja, Odivelas Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "171906",
+    "nomeAE": "Agrupamento de Escolas Adelaide Cabette, Odivelas"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "171918",
+    "nomeAE": "Agrupamento de Escolas a Sudoeste de Odivelas Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "171920",
+    "nomeAE": "Agrupamento de Escolas de Caneças, Odivelas"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "171992",
+    "nomeAE": "Agrupamento de Escolas D. Dinis, Odivelas Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "403507",
+    "nomeAE": "Escola Secundária da Ramada, Odivelas"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Odivelas",
+    "concelhoCodigo": "1116",
+    "codigoAE": "404019",
+    "nomeAE": "Escola Profissional Agrícola D. Dinis - Paiã, Odivelas Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "121617",
+    "nomeAE": "Agrupamento de Escolas Aquilino Ribeiro, Oeiras TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "171475",
+    "nomeAE": "Agrupamento de Escolas de São Bruno, Oeiras Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "171487",
+    "nomeAE": "Agrupamento de Escolas de Carnaxide, Oeiras"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "171803",
+    "nomeAE": "Agrupamento de Escolas de Carnaxide - Portela, Oeiras TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "171815",
+    "nomeAE": "Agrupamento de Escolas de Miraflores, Oeiras"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "171827",
+    "nomeAE": "Agrupamento de Escolas de Paço de Arcos, Oeiras"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "171979",
+    "nomeAE": "Agrupamento de Escolas Conde de Oeiras, Oeiras"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "171980",
+    "nomeAE": "Agrupamento de Escolas de São Julião da Barra, Oeiras"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "172110",
+    "nomeAE": "Agrupamento de Escolas Linda-a-Velha e Queijas, Oeiras"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "172376",
+    "nomeAE": "Agrupamento de Escolas de Santa Catarina, Oeiras"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Oeiras",
+    "concelhoCodigo": "1110",
+    "codigoAE": "402606",
+    "nomeAE": "Escola Secundária da Quinta do Marquês, Oeiras Contrato de Autonomia"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "170185",
+    "nomeAE": "Agrupamento de Escolas D. João II, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "170318",
+    "nomeAE": "Agrupamento de Escolas Leal da Câmara, Sintra TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "170720",
+    "nomeAE": "Agrupamento de Escolas Alto dos Moinhos, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171219",
+    "nomeAE": "Agrupamento de Escolas Aqua Alba, Agualva, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171530",
+    "nomeAE": "Agrupamento de Escolas de Mem Martins, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171554",
+    "nomeAE": "Agrupamento de Escolas D. Carlos I, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171578",
+    "nomeAE": "Agrupamento de Escolas Alfredo da Silva, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171580",
+    "nomeAE": "Agrupamento de Escolas Lapiás, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171591",
+    "nomeAE": "Agrupamento de Escolas do Algueirão, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171608",
+    "nomeAE": "Agrupamento de Escolas Agualva Mira Sintra, Sintra TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171876",
+    "nomeAE": "Agrupamento de Escolas Ferreira de Castro, Sintra TEIP - Território Educativo de Intervenção Prioritária 24/03/2025 14"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171888",
+    "nomeAE": "Agrupamento de Escolas Professor Agostinho da Silva, Sintra TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "171890",
+    "nomeAE": "Agrupamento de Escolas Visconde de Juromenha, Sintra TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "172121",
+    "nomeAE": "Agrupamento de Escolas de Queluz-Belas, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "172133",
+    "nomeAE": "Agrupamento de Escolas Escultor Francisco dos Santos, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "172224",
+    "nomeAE": "Agrupamento de Escolas Miguel Torga, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "172236",
+    "nomeAE": "Agrupamento de Escolas de Massamá, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "172248",
+    "nomeAE": "Agrupamento de Escolas Ruy Belo, Sintra TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "172455",
+    "nomeAE": "Agrupamento de Escolas Monte da Lua, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Sintra",
+    "concelhoCodigo": "1111",
+    "codigoAE": "172467",
+    "nomeAE": "Agrupamento de Escolas D. Maria II, Sintra"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "170070",
+    "nomeAE": "Agrupamento de Escolas do Bom Sucesso, Vila Franca de Xira"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "170770",
+    "nomeAE": "Agrupamento de Escolas Alves Redol, Vila Franca de Xira"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "170781",
+    "nomeAE": "Agrupamento de Escolas Póvoa de Santa Iria, Vila Franca de Xira"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "170793",
+    "nomeAE": "Agrupamento de Escolas de Alhandra, Sobralinho e São João dos Montes, Vila Franca de Xira"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "170800",
+    "nomeAE": "Agrupamento de Escolas de Vialonga, Vila Franca de Xira TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "170811",
+    "nomeAE": "Agrupamento de Escolas Pedro Jacques de Magalhães, Vila Franca de Xira"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "171414",
+    "nomeAE": "Agrupamento de Escolas Professor Reynaldo dos Santos, Vila Franca de Xira"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "171864",
+    "nomeAE": "Agrupamento de Escolas do Forte da Casa, Vila Franca de Xira"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "172157",
+    "nomeAE": "Agrupamento de Escolas D. António de Ataíde, Vila Franca de Xira"
+  },
+  {
+    "qzp": "45",
+    "concelho": "Vila Franca de Xira",
+    "concelhoCodigo": "1114",
+    "codigoAE": "400221",
+    "nomeAE": "Escola Secundária Gago Coutinho, Alverca do Ribatejo, Vila Franca de XiraContrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Alcochete",
+    "concelhoCodigo": "1502",
+    "codigoAE": "121198",
+    "nomeAE": "Agrupamento de Escolas de Alcochete"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "170173",
+    "nomeAE": "Agrupamento de Escolas da Trafaria, Almada TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "170215",
+    "nomeAE": "Agrupamento de Escolas Elias Garcia, Almada Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "170227",
+    "nomeAE": "Agrupamento de Escolas do Monte da Caparica, Almada TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "170926",
+    "nomeAE": "Agrupamento de Escolas da Caparica, Almada TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "170938",
+    "nomeAE": "Agrupamento de Escolas Emídio Navarro, Almada"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "170940",
+    "nomeAE": "Agrupamento de Escolas António Gedeão, Almada"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "170951",
+    "nomeAE": "Agrupamento de Escolas Romeu Correia, Almada"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "171839",
+    "nomeAE": "Agrupamento de Escolas Miradouro de Alfazina, Almada TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "172194",
+    "nomeAE": "Agrupamento de Escolas Daniel Sampaio, Almada"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "172200",
+    "nomeAE": "Agrupamento de Escolas Professor Ruy Luís Gomes, Almada"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "172212",
+    "nomeAE": "Agrupamento de Escolas Anselmo de Andrade, Almada"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "172327",
+    "nomeAE": "Agrupamento de Escolas Carlos Gargaté, Charneca da Caparica, Almada Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "172406",
+    "nomeAE": "Agrupamento de Escolas Francisco Simões, Almada"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "401602",
+    "nomeAE": "Escola Secundária de Cacilhas-Tejo, Almada"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Almada",
+    "concelhoCodigo": "1503",
+    "codigoAE": "401729",
+    "nomeAE": "Escola Secundária Fernão Mendes Pinto, Pragal , Almada"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Barreiro",
+    "concelhoCodigo": "1504",
+    "codigoAE": "120340",
+    "nomeAE": "Agrupamento de Escolas de Santo André, Barreiro"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Barreiro",
+    "concelhoCodigo": "1504",
+    "codigoAE": "121216",
+    "nomeAE": "Agrupamento de Escolas de Santo António, Barreiro TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Barreiro",
+    "concelhoCodigo": "1504",
+    "codigoAE": "170148",
+    "nomeAE": "Agrupamento de Escolas do Barreiro Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Barreiro",
+    "concelhoCodigo": "1504",
+    "codigoAE": "170628",
+    "nomeAE": "Agrupamento de Escolas Augusto Cabrita, Barreiro Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Barreiro",
+    "concelhoCodigo": "1504",
+    "codigoAE": "170884",
+    "nomeAE": "Agrupamento de Escolas de Casquilhos, Barreiro"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Barreiro",
+    "concelhoCodigo": "1504",
+    "codigoAE": "171050",
+    "nomeAE": "Agrupamento de Escolas de Álvaro Velho, Barreiro Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Barreiro",
+    "concelhoCodigo": "1504",
+    "codigoAE": "172352",
+    "nomeAE": "Agrupamento de Escolas Alfredo da Silva, Barreiro"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Moita",
+    "concelhoCodigo": "1506",
+    "codigoAE": "170896",
+    "nomeAE": "Agrupamento de Escolas D. João I, Moita Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Moita",
+    "concelhoCodigo": "1506",
+    "codigoAE": "170902",
+    "nomeAE": "Agrupamento de Escolas da Baixa da Banheira, Vale da Amoreira, Moita TEIP - Território Educativo de Intervenção Prioritária 24/03/2025 15"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Moita",
+    "concelhoCodigo": "1506",
+    "codigoAE": "171013",
+    "nomeAE": "Agrupamento de Escolas José Afonso, Moita"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Moita",
+    "concelhoCodigo": "1506",
+    "codigoAE": "171220",
+    "nomeAE": "Agrupamento de Escolas Mouzinho da Silveira, Moita Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Moita",
+    "concelhoCodigo": "1506",
+    "codigoAE": "171300",
+    "nomeAE": "Agrupamento de Escolas Fragata do Tejo, Moita"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Moita",
+    "concelhoCodigo": "1506",
+    "codigoAE": "171311",
+    "nomeAE": "Agrupamento de Escolas da Moita"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Montijo",
+    "concelhoCodigo": "1507",
+    "codigoAE": "170100",
+    "nomeAE": "Agrupamento de Escolas de Pegões, Canha e Santo Isidro, Montijo"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Montijo",
+    "concelhoCodigo": "1507",
+    "codigoAE": "171670",
+    "nomeAE": "Agrupamento de Escolas do Montijo"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Montijo",
+    "concelhoCodigo": "1507",
+    "codigoAE": "172418",
+    "nomeAE": "Agrupamento de Escolas Poeta Joaquim Serra, Montijo"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Montijo",
+    "concelhoCodigo": "1507",
+    "codigoAE": "401948",
+    "nomeAE": "Escola Secundária Jorge Peixinho, Montijo"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Palmela",
+    "concelhoCodigo": "1508",
+    "codigoAE": "121265",
+    "nomeAE": "Agrupamento de Escolas José Saramago, Palmela TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Palmela",
+    "concelhoCodigo": "1508",
+    "codigoAE": "171104",
+    "nomeAE": "Agrupamento de Escolas de Palmela"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Palmela",
+    "concelhoCodigo": "1508",
+    "codigoAE": "172145",
+    "nomeAE": "Agrupamento de Escolas José Maria dos Santos, Palmela"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Palmela",
+    "concelhoCodigo": "1508",
+    "codigoAE": "403210",
+    "nomeAE": "Escola Secundária de Palmela"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Palmela",
+    "concelhoCodigo": "1508",
+    "codigoAE": "403222",
+    "nomeAE": "Escola Secundária de Pinhal Novo, Palmela"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "170835",
+    "nomeAE": "Agrupamento de Escolas de Vale de Milhaços, Seixal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "170847",
+    "nomeAE": "Agrupamento de Escolas de Pinhal de Frades, Seixal Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "170859",
+    "nomeAE": "Agrupamento de Escolas Nun´Álvares, Seixal TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "170860",
+    "nomeAE": "Agrupamento de Escolas Dr. António Augusto Louro, Seixal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "170872",
+    "nomeAE": "Agrupamento de Escolas Pedro Eanes Lobato, Seixal TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "171268",
+    "nomeAE": "Agrupamento de Escolas João de Barros, Seixal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "171270",
+    "nomeAE": "Agrupamento de Escolas Terras de Larus, Seixal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "171281",
+    "nomeAE": "Agrupamento de Escolas Paulo da Gama, Seixal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "400786",
+    "nomeAE": "Escola Secundária Alfredo dos Reis Silveira, Cavadas, Seixal Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "401481",
+    "nomeAE": "Escola Secundária Dr. José Afonso, Arrentela, Seixal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "402114",
+    "nomeAE": "Escola Secundária Manuel Cargaleiro, Amora, Seixal Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Seixal",
+    "concelhoCodigo": "1510",
+    "codigoAE": "403209",
+    "nomeAE": "Escola Secundária da Amora, Seixal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Sesimbra",
+    "concelhoCodigo": "1511",
+    "codigoAE": "170094",
+    "nomeAE": "Agrupamento de Escolas Maria do Carmo Serrote, Sesimbra Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Sesimbra",
+    "concelhoCodigo": "1511",
+    "codigoAE": "170823",
+    "nomeAE": "Agrupamento de Escolas Michel Giacometti, Sesimbra"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Sesimbra",
+    "concelhoCodigo": "1511",
+    "codigoAE": "170914",
+    "nomeAE": "Agrupamento de Escolas de Sampaio, Sesimbra Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Sesimbra",
+    "concelhoCodigo": "1511",
+    "codigoAE": "171062",
+    "nomeAE": "Agrupamento de Escolas Navegador Rodrigues Soromenho, Sesimbra Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Sesimbra",
+    "concelhoCodigo": "1511",
+    "codigoAE": "172388",
+    "nomeAE": "Agrupamento de Escolas Boa Água, Sesimbra Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Setúbal",
+    "concelhoCodigo": "1512",
+    "codigoAE": "171025",
+    "nomeAE": "Agrupamento de Escolas Sebastião da Gama, Setúbal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Setúbal",
+    "concelhoCodigo": "1512",
+    "codigoAE": "171037",
+    "nomeAE": "Agrupamento de Escolas Ordem de Santiago, Setúbal TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Setúbal",
+    "concelhoCodigo": "1512",
+    "codigoAE": "171049",
+    "nomeAE": "Agrupamento de Escolas de Azeitão, Setúbal Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Setúbal",
+    "concelhoCodigo": "1512",
+    "codigoAE": "171256",
+    "nomeAE": "Agrupamento de Escolas Luísa Todi, Setúbal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Setúbal",
+    "concelhoCodigo": "1512",
+    "codigoAE": "171359",
+    "nomeAE": "Agrupamento de Escolas Barbosa du Bocage, Setúbal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Setúbal",
+    "concelhoCodigo": "1512",
+    "codigoAE": "172169",
+    "nomeAE": "Agrupamento de Escolas Lima de Freitas, Setúbal Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Setúbal",
+    "concelhoCodigo": "1512",
+    "codigoAE": "400105",
+    "nomeAE": "Escola Secundária Dom Manuel Martins, Setúbal"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Setúbal",
+    "concelhoCodigo": "1512",
+    "codigoAE": "401018",
+    "nomeAE": "Escola Secundária du Bocage, Setúbal Contrato de Autonomia"
+  },
+  {
+    "qzp": "46",
+    "concelho": "Setúbal",
+    "concelhoCodigo": "1512",
+    "codigoAE": "401316",
+    "nomeAE": "Escola Secundária D. João II, Setúbal"
+  },
+  {
+    "qzp": "47",
+    "concelho": "Castelo de Vide",
+    "concelhoCodigo": "1205",
+    "codigoAE": "135227",
+    "nomeAE": "Agrupamento de Escolas de Castelo de Vide"
+  },
+  {
+    "qzp": "47",
+    "concelho": "Crato",
+    "concelhoCodigo": "1206",
+    "codigoAE": "135239",
+    "nomeAE": "Agrupamento de Escolas do Crato"
+  },
+  {
+    "qzp": "47",
+    "concelho": "Gavião",
+    "concelhoCodigo": "1209",
+    "codigoAE": "135495",
+    "nomeAE": "Agrupamento de Escolas de Gavião Contrato de Autonomia"
+  },
+  {
+    "qzp": "47",
+    "concelho": "Marvão",
+    "concelhoCodigo": "1210",
+    "codigoAE": "135641",
+    "nomeAE": "Agrupamento de Escolas de Marvão"
+  },
+  {
+    "qzp": "47",
+    "concelho": "Nisa",
+    "concelhoCodigo": "1212",
+    "codigoAE": "130291",
+    "nomeAE": "Agrupamento de Escolas de Nisa 24/03/2025 16"
+  },
+  {
+    "qzp": "47",
+    "concelho": "Portalegre",
+    "concelhoCodigo": "1214",
+    "codigoAE": "135318",
+    "nomeAE": "Agrupamento de Escolas do Bonfim, Portalegre"
+  },
+  {
+    "qzp": "47",
+    "concelho": "Portalegre",
+    "concelhoCodigo": "1214",
+    "codigoAE": "135320",
+    "nomeAE": "Agrupamento de Escolas José Régio, Portalegre TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "47",
+    "concelho": "Portalegre",
+    "concelhoCodigo": "1214",
+    "codigoAE": "402862",
+    "nomeAE": "Escola Secundária de S. Lourenço, Portalegre"
+  },
+  {
+    "qzp": "48",
+    "concelho": "Alter do Chão",
+    "concelhoCodigo": "1201",
+    "codigoAE": "135185",
+    "nomeAE": "Agrupamento de Escolas de Alter do Chão TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "48",
+    "concelho": "Alter do Chão",
+    "concelhoCodigo": "1201",
+    "codigoAE": "404391",
+    "nomeAE": "Escola Profissional de Desenvolvimento Rural de Alter do Chão"
+  },
+  {
+    "qzp": "48",
+    "concelho": "Avis",
+    "concelhoCodigo": "1203",
+    "codigoAE": "135203",
+    "nomeAE": "Agrupamento de Escolas de Avis TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "48",
+    "concelho": "Fronteira",
+    "concelhoCodigo": "1208",
+    "codigoAE": "135264",
+    "nomeAE": "Agrupamento de Escolas de Fronteira"
+  },
+  {
+    "qzp": "48",
+    "concelho": "Mora",
+    "concelhoCodigo": "0707",
+    "codigoAE": "135150",
+    "nomeAE": "Agrupamento de Escolas de Mora"
+  },
+  {
+    "qzp": "48",
+    "concelho": "Ponte de Sor",
+    "concelhoCodigo": "1213",
+    "codigoAE": "135653",
+    "nomeAE": "Agrupamento de Escolas de Ponte de Sôr TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "49",
+    "concelho": "Arronches",
+    "concelhoCodigo": "1202",
+    "codigoAE": "135197",
+    "nomeAE": "Agrupamento de Escolas de Arronches Contrato de Autonomia"
+  },
+  {
+    "qzp": "49",
+    "concelho": "Campo Maior",
+    "concelhoCodigo": "1204",
+    "codigoAE": "135215",
+    "nomeAE": "Agrupamento de Escolas de Campo Maior Contrato de Autonomia"
+  },
+  {
+    "qzp": "49",
+    "concelho": "Elvas",
+    "concelhoCodigo": "1207",
+    "codigoAE": "130280",
+    "nomeAE": "Agrupamento de Escolas n.º 2 de Elvas"
+  },
+  {
+    "qzp": "49",
+    "concelho": "Elvas",
+    "concelhoCodigo": "1207",
+    "codigoAE": "135240",
+    "nomeAE": "Agrupamento de Escolas n.º 1 de Elvas TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "49",
+    "concelho": "Elvas",
+    "concelhoCodigo": "1207",
+    "codigoAE": "135252",
+    "nomeAE": "Agrupamento de Escolas nº 3 de Elvas"
+  },
+  {
+    "qzp": "49",
+    "concelho": "Monforte",
+    "concelhoCodigo": "1211",
+    "codigoAE": "135290",
+    "nomeAE": "Agrupamento de Escolas João Maria Botas Carriço, Monforte TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "50",
+    "concelho": "Borba",
+    "concelhoCodigo": "0703",
+    "codigoAE": "135136",
+    "nomeAE": "Agrupamento de Escolas de Borba"
+  },
+  {
+    "qzp": "50",
+    "concelho": "Estremoz",
+    "concelhoCodigo": "0704",
+    "codigoAE": "135574",
+    "nomeAE": "Agrupamento de Escolas de Estremoz TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "50",
+    "concelho": "Estremoz",
+    "concelhoCodigo": "0704",
+    "codigoAE": "402643",
+    "nomeAE": "Escola Secundária Rainha Santa Isabel, Estremoz Contrato de Autonomia"
+  },
+  {
+    "qzp": "50",
+    "concelho": "Sousel",
+    "concelhoCodigo": "1215",
+    "codigoAE": "135331",
+    "nomeAE": "Agrupamento de Escolas de Sousel"
+  },
+  {
+    "qzp": "50",
+    "concelho": "Vila Viçosa",
+    "concelhoCodigo": "0714",
+    "codigoAE": "135483",
+    "nomeAE": "Agrupamento de Escolas de Vila Viçosa TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "51",
+    "concelho": "Alcácer do Sal",
+    "concelhoCodigo": "1501",
+    "codigoAE": "130345",
+    "nomeAE": "Agrupamento de Escolas de Alcácer do Sal"
+  },
+  {
+    "qzp": "51",
+    "concelho": "Alcácer do Sal",
+    "concelhoCodigo": "1501",
+    "codigoAE": "135343",
+    "nomeAE": "Agrupamento de Escolas de Torrão, Alcácer do Sal TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "51",
+    "concelho": "Montemor-o-Novo",
+    "concelhoCodigo": "0706",
+    "codigoAE": "135586",
+    "nomeAE": "Agrupamento de Escolas de Montemor-o-Novo"
+  },
+  {
+    "qzp": "51",
+    "concelho": "Vendas Novas",
+    "concelhoCodigo": "0712",
+    "codigoAE": "135410",
+    "nomeAE": "Agrupamento de Escolas de Vendas Novas TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "52",
+    "concelho": "Arraiolos",
+    "concelhoCodigo": "0702",
+    "codigoAE": "135525",
+    "nomeAE": "Agrupamento de Escolas de Arraiolos"
+  },
+  {
+    "qzp": "52",
+    "concelho": "Évora",
+    "concelhoCodigo": "0705",
+    "codigoAE": "135537",
+    "nomeAE": "Agrupamento de Escolas Manuel Ferreira Patrício, Évora TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "52",
+    "concelho": "Évora",
+    "concelhoCodigo": "0705",
+    "codigoAE": "135549",
+    "nomeAE": "Agrupamento de Escolas Gabriel Pereira, Évora"
+  },
+  {
+    "qzp": "52",
+    "concelho": "Évora",
+    "concelhoCodigo": "0705",
+    "codigoAE": "135550",
+    "nomeAE": "Agrupamento de Escolas Severim de Faria, Évora"
+  },
+  {
+    "qzp": "52",
+    "concelho": "Évora",
+    "concelhoCodigo": "0705",
+    "codigoAE": "135562",
+    "nomeAE": "Agrupamento de Escolas André de Gouveia, Évora"
+  },
+  {
+    "qzp": "52",
+    "concelho": "Portel",
+    "concelhoCodigo": "0709",
+    "codigoAE": "130140",
+    "nomeAE": "Agrupamento de Escolas de Portel Contrato de Autonomia"
+  },
+  {
+    "qzp": "52",
+    "concelho": "Viana do Alentejo",
+    "concelhoCodigo": "0713",
+    "codigoAE": "135173",
+    "nomeAE": "Agrupamento de Escolas de Viana do Alentejo"
+  },
+  {
+    "qzp": "53",
+    "concelho": "Alandroal",
+    "concelhoCodigo": "0701",
+    "codigoAE": "135124",
+    "nomeAE": "Agrupamento de Escolas de Alandroal"
+  },
+  {
+    "qzp": "53",
+    "concelho": "Mourão",
+    "concelhoCodigo": "0708",
+    "codigoAE": "135161",
+    "nomeAE": "Agrupamento de Escolas de Mourão TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "53",
+    "concelho": "Redondo",
+    "concelhoCodigo": "0710",
+    "codigoAE": "135598",
+    "nomeAE": "Agrupamento de Escolas de Redondo"
+  },
+  {
+    "qzp": "53",
+    "concelho": "Reguengos de Monsaraz",
+    "concelhoCodigo": "0711",
+    "codigoAE": "135604",
+    "nomeAE": "Agrupamento de Escolas de Reguengos de Monsaraz"
+  },
+  {
+    "qzp": "54",
+    "concelho": "Grândola",
+    "concelhoCodigo": "1505",
+    "codigoAE": "130308",
+    "nomeAE": "Agrupamento de Escolas de Grândola"
+  },
+  {
+    "qzp": "54",
+    "concelho": "Grândola",
+    "concelhoCodigo": "1505",
+    "codigoAE": "404342",
+    "nomeAE": "Escola Profissional de Desenvolvimento Rural de Grândola"
+  },
+  {
+    "qzp": "54",
+    "concelho": "Santiago do Cacém",
+    "concelhoCodigo": "1509",
+    "codigoAE": "135355",
+    "nomeAE": "Agrupamento de Escolas Prof. Arménio Lança, Santiago do Cacém"
+  },
+  {
+    "qzp": "54",
+    "concelho": "Santiago do Cacém",
+    "concelhoCodigo": "1509",
+    "codigoAE": "135446",
+    "nomeAE": "Agrupamento de Escolas de Cercal do Alentejo, Santiago do Cacém"
+  },
+  {
+    "qzp": "54",
+    "concelho": "Santiago do Cacém",
+    "concelhoCodigo": "1509",
+    "codigoAE": "135501",
+    "nomeAE": "Agrupamento de Escolas de Santiago do Cacém Contrato de Autonomia"
+  },
+  {
+    "qzp": "54",
+    "concelho": "Santiago do Cacém",
+    "concelhoCodigo": "1509",
+    "codigoAE": "135513",
+    "nomeAE": "Agrupamento de Escolas de Santo André, Santiago do Cacém"
+  },
+  {
+    "qzp": "54",
+    "concelho": "Sines",
+    "concelhoCodigo": "1513",
+    "codigoAE": "135628",
+    "nomeAE": "Agrupamento de Escolas de Sines TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "54",
+    "concelho": "Sines",
+    "concelhoCodigo": "1513",
+    "codigoAE": "403192",
+    "nomeAE": "Escola Secundária Poeta Al Berto, Sines"
+  },
+  {
+    "qzp": "55",
+    "concelho": "Alvito",
+    "concelhoCodigo": "0203",
+    "codigoAE": "130000",
+    "nomeAE": "Agrupamento de Escolas de Alvito 24/03/2025 17"
+  },
+  {
+    "qzp": "55",
+    "concelho": "Beja",
+    "concelhoCodigo": "0205",
+    "codigoAE": "135021",
+    "nomeAE": "Agrupamento de Escolas n.º 1 de Beja TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "55",
+    "concelho": "Beja",
+    "concelhoCodigo": "0205",
+    "codigoAE": "135379",
+    "nomeAE": "Agrupamento de Escolas n.º 2 de Beja"
+  },
+  {
+    "qzp": "55",
+    "concelho": "Cuba",
+    "concelhoCodigo": "0207",
+    "codigoAE": "135045",
+    "nomeAE": "Agrupamento de Escolas de Cuba Contrato de Autonomia"
+  },
+  {
+    "qzp": "55",
+    "concelho": "Ferreira do Alentejo",
+    "concelhoCodigo": "0208",
+    "codigoAE": "130242",
+    "nomeAE": "Agrupamento de Escolas de Ferreira do Alentejo"
+  },
+  {
+    "qzp": "55",
+    "concelho": "Vidigueira",
+    "concelhoCodigo": "0214",
+    "codigoAE": "135112",
+    "nomeAE": "Agrupamento de Escolas de Vidigueira Contrato de Autonomia"
+  },
+  {
+    "qzp": "56",
+    "concelho": "Barrancos",
+    "concelhoCodigo": "0204",
+    "codigoAE": "135010",
+    "nomeAE": "Agrupamento de Escolas de Barrancos"
+  },
+  {
+    "qzp": "56",
+    "concelho": "Moura",
+    "concelhoCodigo": "0210",
+    "codigoAE": "135057",
+    "nomeAE": "Agrupamento de Escolas Professor Francisco Honrado Pereira, Amareleja, Contrato de Autonomia"
+  },
+  {
+    "qzp": "56",
+    "concelho": "Moura",
+    "concelhoCodigo": "0210",
+    "codigoAE": "135471",
+    "nomeAE": "Agrupamento de Escolas de Moura TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "56",
+    "concelho": "Serpa",
+    "concelhoCodigo": "0213",
+    "codigoAE": "135094",
+    "nomeAE": "Agrupamento de Escolas nº 1 de Serpa TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "56",
+    "concelho": "Serpa",
+    "concelhoCodigo": "0213",
+    "codigoAE": "135100",
+    "nomeAE": "Agrupamento de Escolas nº 2 de Serpa"
+  },
+  {
+    "qzp": "56",
+    "concelho": "Serpa",
+    "concelhoCodigo": "0213",
+    "codigoAE": "404330",
+    "nomeAE": "Escola Profissional de Desenvolvimento Rural de Serpa"
+  },
+  {
+    "qzp": "57",
+    "concelho": "Aljustrel",
+    "concelhoCodigo": "0201",
+    "codigoAE": "135367",
+    "nomeAE": "Agrupamento de Escolas de Aljustrel TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "57",
+    "concelho": "Odemira",
+    "concelhoCodigo": "0211",
+    "codigoAE": "130333",
+    "nomeAE": "Agrupamento de Escolas de Vila Nova de Milfontes, Odemira"
+  },
+  {
+    "qzp": "57",
+    "concelho": "Odemira",
+    "concelhoCodigo": "0211",
+    "codigoAE": "135069",
+    "nomeAE": "Agrupamento de Escolas de São Teotónio, Odemira Contrato de Autonomia"
+  },
+  {
+    "qzp": "57",
+    "concelho": "Odemira",
+    "concelhoCodigo": "0211",
+    "codigoAE": "135070",
+    "nomeAE": "Agrupamento de Escolas de Colos, Odemira"
+  },
+  {
+    "qzp": "57",
+    "concelho": "Odemira",
+    "concelhoCodigo": "0211",
+    "codigoAE": "135082",
+    "nomeAE": "Agrupamento de Escolas de Sabóia, Odemira"
+  },
+  {
+    "qzp": "57",
+    "concelho": "Odemira",
+    "concelhoCodigo": "0211",
+    "codigoAE": "135434",
+    "nomeAE": "Agrupamento de Escolas de Odemira"
+  },
+  {
+    "qzp": "57",
+    "concelho": "Ourique",
+    "concelhoCodigo": "0212",
+    "codigoAE": "135392",
+    "nomeAE": "Agrupamento de Escolas de Ourique"
+  },
+  {
+    "qzp": "58",
+    "concelho": "Almodôvar",
+    "concelhoCodigo": "0202",
+    "codigoAE": "130229",
+    "nomeAE": "Agrupamento de Escolas de Almodôvar"
+  },
+  {
+    "qzp": "58",
+    "concelho": "Castro Verde",
+    "concelhoCodigo": "0206",
+    "codigoAE": "135033",
+    "nomeAE": "Agrupamento de Escolas de Castro Verde"
+  },
+  {
+    "qzp": "58",
+    "concelho": "Mértola",
+    "concelhoCodigo": "0209",
+    "codigoAE": "135616",
+    "nomeAE": "Agrupamento de Escolas de Mértola"
+  },
+  {
+    "qzp": "59",
+    "concelho": "Aljezur",
+    "concelhoCodigo": "0803",
+    "codigoAE": "145051",
+    "nomeAE": "Agrupamento de Escolas Professora Piedade Matoso, Aljezur"
+  },
+  {
+    "qzp": "59",
+    "concelho": "Lagos",
+    "concelhoCodigo": "0807",
+    "codigoAE": "145415",
+    "nomeAE": "Agrupamento de Escolas Júlio Dantas, Lagos TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "59",
+    "concelho": "Lagos",
+    "concelhoCodigo": "0807",
+    "codigoAE": "145427",
+    "nomeAE": "Agrupamento de Escolas Gil Eanes, Lagos"
+  },
+  {
+    "qzp": "59",
+    "concelho": "Vila do Bispo",
+    "concelhoCodigo": "0815",
+    "codigoAE": "145282",
+    "nomeAE": "Agrupamento de Escolas de Vila do Bispo"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Lagoa",
+    "concelhoCodigo": "0806",
+    "codigoAE": "145130",
+    "nomeAE": "Agrupamento de Escolas Rio Arade, Lagoa TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Lagoa",
+    "concelhoCodigo": "0806",
+    "codigoAE": "145403",
+    "nomeAE": "Agrupamento de Escolas Padre António Martins de Oliveira, Lagoa"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Monchique",
+    "concelhoCodigo": "0809",
+    "codigoAE": "145180",
+    "nomeAE": "Agrupamento de Escolas de Monchique"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Portimão",
+    "concelhoCodigo": "0811",
+    "codigoAE": "145464",
+    "nomeAE": "Agrupamento de Escolas Manuel Teixeira Gomes, Portimão"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Portimão",
+    "concelhoCodigo": "0811",
+    "codigoAE": "145476",
+    "nomeAE": "Agrupamento de Escolas Poeta António Aleixo, Portimão"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Portimão",
+    "concelhoCodigo": "0811",
+    "codigoAE": "145488",
+    "nomeAE": "Agrupamento de Escolas Eng. Nuno Mergulhão, Portimão TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Portimão",
+    "concelhoCodigo": "0811",
+    "codigoAE": "145490",
+    "nomeAE": "Agrupamento de Escolas Júdice Fialho, Portimão"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Portimão",
+    "concelhoCodigo": "0811",
+    "codigoAE": "145531",
+    "nomeAE": "Agrupamento de Escolas de Bemposta, Portimão"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Silves",
+    "concelhoCodigo": "0813",
+    "codigoAE": "145269",
+    "nomeAE": "Agrupamento de Escolas Silves Sul, Silves Contrato de Autonomia"
+  },
+  {
+    "qzp": "60",
+    "concelho": "Silves",
+    "concelhoCodigo": "0813",
+    "codigoAE": "145555",
+    "nomeAE": "Agrupamento de Escolas de Silves"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Albufeira",
+    "concelhoCodigo": "0801",
+    "codigoAE": "145014",
+    "nomeAE": "Agrupamento de Escolas de Albufeira Poente, Albufeira"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Albufeira",
+    "concelhoCodigo": "0801",
+    "codigoAE": "145026",
+    "nomeAE": "Agrupamento de Escolas de Ferreiras, Albufeira"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Albufeira",
+    "concelhoCodigo": "0801",
+    "codigoAE": "145385",
+    "nomeAE": "Agrupamento de Escolas de Albufeira"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Loulé",
+    "concelhoCodigo": "0808",
+    "codigoAE": "145142",
+    "nomeAE": "Agrupamento de Escolas de Almancil, Loulé TEIP - Território Educativo de Intervenção Prioritária e Contrato de Autonomia"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Loulé",
+    "concelhoCodigo": "0808",
+    "codigoAE": "145178",
+    "nomeAE": "Agrupamento de Escolas Eng. Duarte Pacheco, Loulé"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Loulé",
+    "concelhoCodigo": "0808",
+    "codigoAE": "145336",
+    "nomeAE": "Agrupamento de Escolas Drª Laura Ayres, Loulé TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Loulé",
+    "concelhoCodigo": "0808",
+    "codigoAE": "145439",
+    "nomeAE": "Agrupamento de Escolas D. Dinis, Loulé"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Loulé",
+    "concelhoCodigo": "0808",
+    "codigoAE": "145440",
+    "nomeAE": "Agrupamento de Escolas Padre João Coelho Cabanita, Loulé TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Loulé",
+    "concelhoCodigo": "0808",
+    "codigoAE": "400324",
+    "nomeAE": "Escola Secundária de Loulé 24/03/2025 18"
+  },
+  {
+    "qzp": "61",
+    "concelho": "Loulé",
+    "concelhoCodigo": "0808",
+    "codigoAE": "806370",
+    "nomeAE": "Conservatório de Música de Loulé - Francisco Rosado"
+  },
+  {
+    "qzp": "62",
+    "concelho": "Faro",
+    "concelhoCodigo": "0805",
+    "codigoAE": "145087",
+    "nomeAE": "Agrupamento de Escolas D. Afonso III, Faro Contrato de Autonomia"
+  },
+  {
+    "qzp": "62",
+    "concelho": "Faro",
+    "concelhoCodigo": "0805",
+    "codigoAE": "145099",
+    "nomeAE": "Agrupamento de Escolas João de Deus, Faro"
+  },
+  {
+    "qzp": "62",
+    "concelho": "Faro",
+    "concelhoCodigo": "0805",
+    "codigoAE": "145105",
+    "nomeAE": "Agrupamento de Escolas de Montenegro, Faro"
+  },
+  {
+    "qzp": "62",
+    "concelho": "Faro",
+    "concelhoCodigo": "0805",
+    "codigoAE": "145397",
+    "nomeAE": "Agrupamento de Escolas Tomás Cabreira, Faro"
+  },
+  {
+    "qzp": "62",
+    "concelho": "Faro",
+    "concelhoCodigo": "0805",
+    "codigoAE": "145567",
+    "nomeAE": "Agrupamento de Escolas Pinheiro e Rosa, Faro Contrato de Autonomia"
+  },
+  {
+    "qzp": "62",
+    "concelho": "Olhão",
+    "concelhoCodigo": "0810",
+    "codigoAE": "145191",
+    "nomeAE": "Agrupamento de Escolas Professor Paula Nogueira, Olhão TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "62",
+    "concelho": "Olhão",
+    "concelhoCodigo": "0810",
+    "codigoAE": "145221",
+    "nomeAE": "Agrupamento de Escolas João da Rosa, Olhão TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "62",
+    "concelho": "Olhão",
+    "concelhoCodigo": "0810",
+    "codigoAE": "145452",
+    "nomeAE": "Agrupamento de Escolas Dr. Alberto Iria, Olhão TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "62",
+    "concelho": "Olhão",
+    "concelhoCodigo": "0810",
+    "codigoAE": "145543",
+    "nomeAE": "Agrupamento de Escolas Dr. Francisco Fernandes Lopes, Olhão TEIP - Território Educativo de Intervenção Prioritária"
+  },
+  {
+    "qzp": "62",
+    "concelho": "São Brás de Alportel",
+    "concelhoCodigo": "0812",
+    "codigoAE": "145373",
+    "nomeAE": "Agrupamento de Escolas José Belchior Viegas, São Brás de Alportel"
+  },
+  {
+    "qzp": "63",
+    "concelho": "Alcoutim",
+    "concelhoCodigo": "0802",
+    "codigoAE": "145520",
+    "nomeAE": "Agrupamento de Escolas de Alcoutim"
+  },
+  {
+    "qzp": "63",
+    "concelho": "Castro Marim",
+    "concelhoCodigo": "0804",
+    "codigoAE": "145063",
+    "nomeAE": "Agrupamento de Escolas de Castro Marim"
+  },
+  {
+    "qzp": "63",
+    "concelho": "Tavira",
+    "concelhoCodigo": "0814",
+    "codigoAE": "145312",
+    "nomeAE": "Agrupamento de Escolas Dr. Jorge Augusto Correia, Tavira"
+  },
+  {
+    "qzp": "63",
+    "concelho": "Tavira",
+    "concelhoCodigo": "0814",
+    "codigoAE": "145324",
+    "nomeAE": "Agrupamento de Escolas D. Manuel I, Tavira"
+  },
+  {
+    "qzp": "63",
+    "concelho": "Vila Real de Santo António",
+    "concelhoCodigo": "0816",
+    "codigoAE": "145348",
+    "nomeAE": "Agrupamento de Escolas de Vila Real de Santo António"
+  },
+  {
+    "qzp": "63",
+    "concelho": "Vila Real de Santo António",
+    "concelhoCodigo": "0816",
+    "codigoAE": "145518",
+    "nomeAE": "Agrupamento de Escolas D. José I, Vila Real de Santo António TEIP - Território Educativo de Intervenção Prioritária 24/03/2025 19"
+  }
+]

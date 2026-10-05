@@ -1,0 +1,658 @@
+[
+  {
+    "qzp": "01",
+    "label": "QZP 01 - Melgaço; Monção; Valença",
+    "concelhos": [
+      "Melgaço (1603)",
+      "Monção (1604)",
+      "Valença (1608)"
+    ]
+  },
+  {
+    "qzp": "02",
+    "label": "QZP 02 - Caminha; Viana do Castelo; Vila Nova de Cerveira",
+    "concelhos": [
+      "Caminha (1602)",
+      "Viana do Castelo (1609)",
+      "Vila Nova de Cerveira (1610)"
+    ]
+  },
+  {
+    "qzp": "03",
+    "label": "QZP 03 - Arcos de Valdevez; Paredes de Coura; Ponte da Barca; Ponte de Lima",
+    "concelhos": [
+      "Arcos de Valdevez (1601)",
+      "Paredes de Coura (1605)",
+      "Ponte da Barca (1606)",
+      "Ponte de Lima (1607)"
+    ]
+  },
+  {
+    "qzp": "04",
+    "label": "QZP 04 - Amares; Terras de Bouro; Vila Verde",
+    "concelhos": [
+      "Amares (0301)",
+      "Terras de Bouro (0310)",
+      "Vila Verde (0313)"
+    ]
+  },
+  {
+    "qzp": "05",
+    "label": "QZP 05 - Barcelos; Esposende",
+    "concelhos": [
+      "Barcelos (0302)",
+      "Esposende (0306)"
+    ]
+  },
+  {
+    "qzp": "06",
+    "label": "QZP 06 - Braga; Póvoa de Lanhoso; Vieira do Minho",
+    "concelhos": [
+      "Braga (0303)",
+      "Póvoa de Lanhoso (0309)",
+      "Vieira do Minho (0311)"
+    ]
+  },
+  {
+    "qzp": "07",
+    "label": "QZP 07 - Guimarães; Vila Nova de Famalicão; Vizela",
+    "concelhos": [
+      "Guimarães (0308)",
+      "Vila Nova de Famalicão (0312)",
+      "Vizela (0314)"
+    ]
+  },
+  {
+    "qzp": "08",
+    "label": "QZP 08 - Cabeceiras de Basto; Celorico de Basto; Fafe",
+    "concelhos": [
+      "Cabeceiras de Basto (0304)",
+      "Celorico de Basto (0305)",
+      "Fafe (0307)"
+    ]
+  },
+  {
+    "qzp": "09",
+    "label": "QZP 09 - Gondomar; Maia; Matosinhos; Paredes; Porto; Póvoa de Varzim; Santo Tirso; Trofa; Valongo; Vila do Conde; Vila Nova de Gaia",
+    "concelhos": [
+      "Gondomar (1304)",
+      "Maia (1306)",
+      "Matosinhos (1308)",
+      "Paredes (1310)",
+      "Porto (1312)",
+      "Póvoa de Varzim (1313)",
+      "Santo Tirso (1314)",
+      "Trofa (1318)",
+      "Valongo (1315)",
+      "Vila do Conde (1316)",
+      "Vila Nova de Gaia (1317)"
+    ]
+  },
+  {
+    "qzp": "10",
+    "label": "QZP 10 - Felgueiras; Lousada; Paços de Ferreira",
+    "concelhos": [
+      "Felgueiras (1303)",
+      "Lousada (1305)",
+      "Paços de Ferreira (1309)"
+    ]
+  },
+  {
+    "qzp": "11",
+    "label": "QZP 11 - Amarante; Baião; Marco de Canaveses; Penafiel",
+    "concelhos": [
+      "Amarante (1301)",
+      "Baião (1302)",
+      "Marco de Canaveses (1307)",
+      "Penafiel (1311)"
+    ]
+  },
+  {
+    "qzp": "12",
+    "label": "QZP 12 - Boticas; Chaves; Montalegre",
+    "concelhos": [
+      "Boticas (1702)",
+      "Chaves (1703)",
+      "Montalegre (1706)"
+    ]
+  },
+  {
+    "qzp": "13",
+    "label": "QZP 13 - Alijó; Mirandela; Murça; Valpaços",
+    "concelhos": [
+      "Alijó (1701)",
+      "Mirandela (0407)",
+      "Murça (1707)",
+      "Valpaços (1712)"
+    ]
+  },
+  {
+    "qzp": "14",
+    "label": "QZP 14 - Bragança; Macedo de Cavaleiros; Vinhais",
+    "concelhos": [
+      "Bragança (0402)",
+      "Macedo de Cavaleiros (0405)",
+      "Vinhais (0412)"
+    ]
+  },
+  {
+    "qzp": "15",
+    "label": "QZP 15 - Mondim de Basto; Ribeira de Pena; Sabrosa; Vila Pouca de Aguiar; Vila Real",
+    "concelhos": [
+      "Mondim de Basto (1705)",
+      "Ribeira de Pena (1709)",
+      "Sabrosa (1710)",
+      "Vila Pouca de Aguiar (1713)",
+      "Vila Real (1714)"
+    ]
+  },
+  {
+    "qzp": "16",
+    "label": "QZP 16 - Alfândega da Fé; Carrazeda de Ansiães; Freixo de Espada à Cinta; Torre de Moncorvo; Vila Flor; Vila Nova de Foz Côa",
+    "concelhos": [
+      "Alfândega da Fé (0401)",
+      "Carrazeda de Ansiães (0403)",
+      "Freixo de Espada à Cinta (0404)",
+      "Torre de Moncorvo (0409)",
+      "Vila Flor (0410)",
+      "Vila Nova de Foz Côa (0914)"
+    ]
+  },
+  {
+    "qzp": "17",
+    "label": "QZP 17 - Miranda do Douro; Mogadouro; Vimioso",
+    "concelhos": [
+      "Miranda do Douro (0406)",
+      "Mogadouro (0408)",
+      "Vimioso (0411)"
+    ]
+  },
+  {
+    "qzp": "18",
+    "label": "QZP 18 - Cinfães; Lamego; Mesão Frio; Peso da Régua; Resende; Santa Marta de Penaguião; Tarouca",
+    "concelhos": [
+      "Cinfães (1804)",
+      "Lamego (1805)",
+      "Mesão Frio (1704)",
+      "Peso da Régua (1708)",
+      "Resende (1813)",
+      "Santa Marta de Penaguião (1711)",
+      "Tarouca (1820)"
+    ]
+  },
+  {
+    "qzp": "19",
+    "label": "QZP 19 - Armamar; Moimenta da Beira; Penedono; São João da Pesqueira; Sernancelhe; Tabuaço",
+    "concelhos": [
+      "Armamar (1801)",
+      "Moimenta da Beira (1807)",
+      "Penedono (1812)",
+      "São João da Pesqueira (1815)",
+      "Sernancelhe (1818)",
+      "Tabuaço (1819)"
+    ]
+  },
+  {
+    "qzp": "20",
+    "label": "QZP 20 - Arouca; Castelo de Paiva; Espinho; Oliveira de Azeméis; Santa Maria da Feira; São João da Madeira; Vale de Cambra",
+    "concelhos": [
+      "Arouca (0104)",
+      "Castelo de Paiva (0106)",
+      "Espinho (0107)",
+      "Oliveira de Azeméis (0113)",
+      "Santa Maria da Feira (0109)",
+      "São João da Madeira (0116)",
+      "Vale de Cambra (0119)"
+    ]
+  },
+  {
+    "qzp": "21",
+    "label": "QZP 21 - Castro Daire; Oliveira de Frades; São Pedro do Sul; Vouzela",
+    "concelhos": [
+      "Castro Daire (1803)",
+      "Oliveira de Frades (1810)",
+      "São Pedro do Sul (1816)",
+      "Vouzela (1824)"
+    ]
+  },
+  {
+    "qzp": "22",
+    "label": "QZP 22 - Mangualde; Penalva do Castelo; Sátão; Vila Nova de Paiva; Viseu",
+    "concelhos": [
+      "Mangualde (1806)",
+      "Penalva do Castelo (1811)",
+      "Sátão (1817)",
+      "Vila Nova de Paiva (1822)",
+      "Viseu (1823)"
+    ]
+  },
+  {
+    "qzp": "23",
+    "label": "QZP 23 - Albergaria-a-Velha; Aveiro; Estarreja; Murtosa; Ovar; Sever do Vouga",
+    "concelhos": [
+      "Albergaria-a-Velha (0102)",
+      "Aveiro (0105)",
+      "Estarreja (0108)",
+      "Murtosa (0112)",
+      "Ovar (0115)",
+      "Sever do Vouga (0117)"
+    ]
+  },
+  {
+    "qzp": "24",
+    "label": "QZP 24 - Águeda; Anadia; Ílhavo; Mealhada; Oliveira do Bairro; Vagos",
+    "concelhos": [
+      "Águeda (0101)",
+      "Anadia (0103)",
+      "Ílhavo (0110)",
+      "Mealhada (0111)",
+      "Oliveira do Bairro (0114)",
+      "Vagos (0118)"
+    ]
+  },
+  {
+    "qzp": "25",
+    "label": "QZP 25 - Carregal do Sal; Mortágua; Nelas; Santa Comba Dão; Tondela",
+    "concelhos": [
+      "Carregal do Sal (1802)",
+      "Mortágua (1808)",
+      "Nelas (1809)",
+      "Santa Comba Dão (1814)",
+      "Tondela (1821)"
+    ]
+  },
+  {
+    "qzp": "26",
+    "label": "QZP 26 - Cantanhede; Figueira da Foz; Mira; Montemor-o-Velho",
+    "concelhos": [
+      "Cantanhede (0602)",
+      "Figueira da Foz (0605)",
+      "Mira (0608)",
+      "Montemor-o-Velho (0610)"
+    ]
+  },
+  {
+    "qzp": "27",
+    "label": "QZP 27 - Coimbra; Condeixa-a-Nova; Lousã; Miranda do Corvo; Penacova; Soure; Vila Nova de Poiares",
+    "concelhos": [
+      "Coimbra (0603)",
+      "Condeixa-a-Nova (0604)",
+      "Lousã (0607)",
+      "Miranda do Corvo (0609)",
+      "Penacova (0613)",
+      "Soure (0615)",
+      "Vila Nova de Poiares (0617)"
+    ]
+  },
+  {
+    "qzp": "28",
+    "label": "QZP 28 - Arganil; Góis; Oliveira do Hospital; Pampilhosa da Serra; Tábua",
+    "concelhos": [
+      "Arganil (0601)",
+      "Góis (0606)",
+      "Oliveira do Hospital (0611)",
+      "Pampilhosa da Serra (0612)",
+      "Tábua (0616)"
+    ]
+  },
+  {
+    "qzp": "29",
+    "label": "QZP 29 - Batalha; Leiria; Marinha Grande; Pombal; Porto de Mós",
+    "concelhos": [
+      "Batalha (1004)",
+      "Leiria (1009)",
+      "Marinha Grande (1010)",
+      "Pombal (1015)",
+      "Porto de Mós (1016)"
+    ]
+  },
+  {
+    "qzp": "30",
+    "label": "QZP 30 - Alvaiázere; Ansião; Castanheira de Pêra; Figueiró dos Vinhos; Pedrógão Grande; Penela",
+    "concelhos": [
+      "Alvaiázere (1002)",
+      "Ansião (1003)",
+      "Castanheira de Pêra (1007)",
+      "Figueiró dos Vinhos (1008)",
+      "Pedrógão Grande (1013)",
+      "Penela (0614)"
+    ]
+  },
+  {
+    "qzp": "31",
+    "label": "QZP 31 - Figueira de Castelo Rodrigo; Meda; Pinhel; Trancoso",
+    "concelhos": [
+      "Figueira de Castelo Rodrigo (0904)",
+      "Meda (0909)",
+      "Pinhel (0910)",
+      "Trancoso (0913)"
+    ]
+  },
+  {
+    "qzp": "32",
+    "label": "QZP 32 - Aguiar da Beira; Celorico da Beira; Fornos de Algodres; Gouveia; Seia",
+    "concelhos": [
+      "Aguiar da Beira (0901)",
+      "Celorico da Beira (0903)",
+      "Fornos de Algodres (0905)",
+      "Gouveia (0906)",
+      "Seia (0912)"
+    ]
+  },
+  {
+    "qzp": "33",
+    "label": "QZP 33 - Almeida; Guarda; Sabugal",
+    "concelhos": [
+      "Almeida (0902)",
+      "Guarda (0907)",
+      "Sabugal (0911)"
+    ]
+  },
+  {
+    "qzp": "34",
+    "label": "QZP 34 - Belmonte; Covilhã; Fundão; Manteigas; Penamacor",
+    "concelhos": [
+      "Belmonte (0501)",
+      "Covilhã (0503)",
+      "Fundão (0504)",
+      "Manteigas (0908)",
+      "Penamacor (0507)"
+    ]
+  },
+  {
+    "qzp": "35",
+    "label": "QZP 35 - Oleiros; Proença-a-Nova; Sertã; Vila de Rei",
+    "concelhos": [
+      "Oleiros (0506)",
+      "Proença-a-Nova (0508)",
+      "Sertã (0509)",
+      "Vila de Rei (0510)"
+    ]
+  },
+  {
+    "qzp": "36",
+    "label": "QZP 36 - Castelo Branco; Idanha-a-Nova; Vila Velha de Ródão",
+    "concelhos": [
+      "Castelo Branco (0502)",
+      "Idanha-a-Nova (0505)",
+      "Vila Velha de Ródão (0511)"
+    ]
+  },
+  {
+    "qzp": "37",
+    "label": "QZP 37 - Alcanena; Entroncamento; Ferreira do Zêzere; Ourém; Tomar; Torres Novas; Vila Nova da Barquinha",
+    "concelhos": [
+      "Alcanena (1402)",
+      "Entroncamento (1410)",
+      "Ferreira do Zêzere (1411)",
+      "Ourém (1421)",
+      "Tomar (1418)",
+      "Torres Novas (1419)",
+      "Vila Nova da Barquinha (1420)"
+    ]
+  },
+  {
+    "qzp": "38",
+    "label": "QZP 38 - Abrantes; Constância; Mação; Sardoal",
+    "concelhos": [
+      "Abrantes (1401)",
+      "Constância (1408)",
+      "Mação (1413)",
+      "Sardoal (1417)"
+    ]
+  },
+  {
+    "qzp": "39",
+    "label": "QZP 39 - Alcobaça; Caldas da Rainha; Nazaré",
+    "concelhos": [
+      "Alcobaça (1001)",
+      "Caldas da Rainha (1006)",
+      "Nazaré (1011)"
+    ]
+  },
+  {
+    "qzp": "40",
+    "label": "QZP 40 - Alenquer; Azambuja; Cartaxo; Rio Maior; Santarém",
+    "concelhos": [
+      "Alenquer (1101)",
+      "Azambuja (1103)",
+      "Cartaxo (1406)",
+      "Rio Maior (1414)",
+      "Santarém (1416)"
+    ]
+  },
+  {
+    "qzp": "41",
+    "label": "QZP 41 - Bombarral; Cadaval; Lourinhã; Óbidos; Peniche",
+    "concelhos": [
+      "Bombarral (1005)",
+      "Cadaval (1104)",
+      "Lourinhã (1108)",
+      "Óbidos (1012)",
+      "Peniche (1014)"
+    ]
+  },
+  {
+    "qzp": "42",
+    "label": "QZP 42 - Arruda dos Vinhos; Mafra; Sobral de Monte Agraço; Torres Vedras",
+    "concelhos": [
+      "Arruda dos Vinhos (1102)",
+      "Mafra (1109)",
+      "Sobral de Monte Agraço (1112)",
+      "Torres Vedras (1113)"
+    ]
+  },
+  {
+    "qzp": "43",
+    "label": "QZP 43 - Almeirim; Alpiarça; Chamusca; Golegã",
+    "concelhos": [
+      "Almeirim (1403)",
+      "Alpiarça (1404)",
+      "Chamusca (1407)",
+      "Golegã (1412)"
+    ]
+  },
+  {
+    "qzp": "44",
+    "label": "QZP 44 - Benavente; Coruche; Salvaterra de Magos",
+    "concelhos": [
+      "Benavente (1405)",
+      "Coruche (1409)",
+      "Salvaterra de Magos (1415)"
+    ]
+  },
+  {
+    "qzp": "45",
+    "label": "QZP 45 - Amadora; Cascais; Lisboa; Loures; Odivelas; Oeiras; Sintra; Vila Franca de Xira",
+    "concelhos": [
+      "Amadora (1115)",
+      "Cascais (1105)",
+      "Lisboa (1106)",
+      "Loures (1107)",
+      "Odivelas (1116)",
+      "Oeiras (1110)",
+      "Sintra (1111)",
+      "Vila Franca de Xira (1114)"
+    ]
+  },
+  {
+    "qzp": "46",
+    "label": "QZP 46 - Alcochete; Almada; Barreiro; Moita; Montijo; Palmela; Seixal; Sesimbra; Setúbal",
+    "concelhos": [
+      "Alcochete (1502)",
+      "Almada (1503)",
+      "Barreiro (1504)",
+      "Moita (1506)",
+      "Montijo (1507)",
+      "Palmela (1508)",
+      "Seixal (1510)",
+      "Sesimbra (1511)",
+      "Setúbal (1512)"
+    ]
+  },
+  {
+    "qzp": "47",
+    "label": "QZP 47 - Castelo de Vide; Crato; Gavião; Marvão; Nisa; Portalegre",
+    "concelhos": [
+      "Castelo de Vide (1205)",
+      "Crato (1206)",
+      "Gavião (1209)",
+      "Marvão (1210)",
+      "Nisa (1212)",
+      "Portalegre (1214)"
+    ]
+  },
+  {
+    "qzp": "48",
+    "label": "QZP 48 - Alter do Chão; Avis; Fronteira; Mora; Ponte de Sor",
+    "concelhos": [
+      "Alter do Chão (1201)",
+      "Avis (1203)",
+      "Fronteira (1208)",
+      "Mora (0707)",
+      "Ponte de Sor (1213)"
+    ]
+  },
+  {
+    "qzp": "49",
+    "label": "QZP 49 - Arronches; Campo Maior; Elvas; Monforte",
+    "concelhos": [
+      "Arronches (1202)",
+      "Campo Maior (1204)",
+      "Elvas (1207)",
+      "Monforte (1211)"
+    ]
+  },
+  {
+    "qzp": "50",
+    "label": "QZP 50 - Borba; Estremoz; Sousel; Vila Viçosa",
+    "concelhos": [
+      "Borba (0703)",
+      "Estremoz (0704)",
+      "Sousel (1215)",
+      "Vila Viçosa (0714)"
+    ]
+  },
+  {
+    "qzp": "51",
+    "label": "QZP 51 - Alcácer do Sal; Montemor-o-Novo; Vendas Novas",
+    "concelhos": [
+      "Alcácer do Sal (1501)",
+      "Montemor-o-Novo (0706)",
+      "Vendas Novas (0712)"
+    ]
+  },
+  {
+    "qzp": "52",
+    "label": "QZP 52 - Arraiolos; Évora; Portel; Viana do Alentejo",
+    "concelhos": [
+      "Arraiolos (0702)",
+      "Évora (0705)",
+      "Portel (0709)",
+      "Viana do Alentejo (0713)"
+    ]
+  },
+  {
+    "qzp": "53",
+    "label": "QZP 53 - Alandroal; Mourão; Redondo; Reguengos de Monsaraz",
+    "concelhos": [
+      "Alandroal (0701)",
+      "Mourão (0708)",
+      "Redondo (0710)",
+      "Reguengos de Monsaraz (0711)"
+    ]
+  },
+  {
+    "qzp": "54",
+    "label": "QZP 54 - Grândola; Santiago do Cacém; Sines",
+    "concelhos": [
+      "Grândola (1505)",
+      "Santiago do Cacém (1509)",
+      "Sines (1513)"
+    ]
+  },
+  {
+    "qzp": "55",
+    "label": "QZP 55 - Alvito; Beja; Cuba; Ferreira do Alentejo; Vidigueira",
+    "concelhos": [
+      "Alvito (0203)",
+      "Beja (0205)",
+      "Cuba (0207)",
+      "Ferreira do Alentejo (0208)",
+      "Vidigueira (0214)"
+    ]
+  },
+  {
+    "qzp": "56",
+    "label": "QZP 56 - Barrancos; Moura; Serpa",
+    "concelhos": [
+      "Barrancos (0204)",
+      "Moura (0210)",
+      "Serpa (0213)"
+    ]
+  },
+  {
+    "qzp": "57",
+    "label": "QZP 57 - Aljustrel; Odemira; Ourique",
+    "concelhos": [
+      "Aljustrel (0201)",
+      "Odemira (0211)",
+      "Ourique (0212)"
+    ]
+  },
+  {
+    "qzp": "58",
+    "label": "QZP 58 - Almodôvar; Castro Verde; Mértola",
+    "concelhos": [
+      "Almodôvar (0202)",
+      "Castro Verde (0206)",
+      "Mértola (0209)"
+    ]
+  },
+  {
+    "qzp": "59",
+    "label": "QZP 59 - Aljezur; Lagos; Vila do Bispo",
+    "concelhos": [
+      "Aljezur (0803)",
+      "Lagos (0807)",
+      "Vila do Bispo (0815)"
+    ]
+  },
+  {
+    "qzp": "60",
+    "label": "QZP 60 - Lagoa; Monchique; Portimão; Silves",
+    "concelhos": [
+      "Lagoa (0806)",
+      "Monchique (0809)",
+      "Portimão (0811)",
+      "Silves (0813)"
+    ]
+  },
+  {
+    "qzp": "61",
+    "label": "QZP 61 - Albufeira; Loulé",
+    "concelhos": [
+      "Albufeira (0801)",
+      "Loulé (0808)"
+    ]
+  },
+  {
+    "qzp": "62",
+    "label": "QZP 62 - Faro; Olhão; São Brás de Alportel",
+    "concelhos": [
+      "Faro (0805)",
+      "Olhão (0810)",
+      "São Brás de Alportel (0812)"
+    ]
+  },
+  {
+    "qzp": "63",
+    "label": "QZP 63 - Alcoutim; Castro Marim; Tavira; Vila Real de Santo António",
+    "concelhos": [
+      "Alcoutim (0802)",
+      "Castro Marim (0804)",
+      "Tavira (0814)",
+      "Vila Real de Santo António (0816)"
+    ]
+  }
+]
